@@ -1,0 +1,1052 @@
+Sentiment,L1 Cluster ID,L1 Cluster,L2 Cluster ID,L2 Cluster,L2 Phrase Count,L2 Rating (Phrase),L3 Cluster ID,L3 Cluster,L3 Phrase Count,L3 Review Count,L3 Rating (Review),L3 Rating (Phrase),L4 ID,L4 Phrases,Review ID,Review Rating,Date,Verified Purchase,Recommended,Incentivized,Upvote,Downvote,AgeRange,SkinConcerns
+Positive,,,,Skin,700,4.817142857142857,0, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, very dry T-Zone quickly,P4R600,5,15 August 2020,No,Yes,No,1,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,6, Very gentle,22,22,4.818181818181818,4.818181818181818,, Very gentle,P4R600,5,15 August 2020,No,Yes,No,1,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,0, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, very dry T-Zone quickly,P4R600,5,15 August 2020,No,Yes,No,1,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,6, Very gentle,22,22,4.818181818181818,4.818181818181818,, Very gentle,P4R600,5,15 August 2020,No,Yes,No,1,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,23, very dry T-Zone quickly,24,24,4.875,4.875,, combination acne prone skin,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, calm any redness,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,21, combination acne prone skin,32,32,4.96875,4.96875,, dark acne scars,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, absorbs very well,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Positive,,,,Allergy,44,4.840909090909091,0, very dry T-Zone quickly,23,22,4.909090909090909,4.869565217391305,, never caused an acne flare,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,2, very dry T-Zone quickly,25,24,5.0,5.0,, recommend trying this product,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Positive,,,,Price,84,4.928571428571429,3, very dry T-Zone quickly,14,14,5.0,5.0,, price is worth it,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,23, very dry T-Zone quickly,24,24,4.875,4.875,, combination acne prone skin,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, calm any redness,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,21, combination acne prone skin,32,32,4.96875,4.96875,, dark acne scars,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, absorbs very well,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Negative,,,,Allergy,44,4.840909090909091,0, very dry T-Zone quickly,23,22,4.909090909090909,4.869565217391305,, never caused an acne flare,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,2, very dry T-Zone quickly,25,24,5.0,5.0,, recommend trying this product,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Negative,,,,Price,84,4.928571428571429,3, very dry T-Zone quickly,14,14,5.0,5.0,, price is worth it,P4R601,5,15 August 2020,No,Yes,No,14,0,,Acne
+Positive,,,,Demographic,54,4.962962962962963,2, very dry T-Zone quickly,13,13,5.0,5.0,, Age is [35],P4R602,5,14 August 2020,No,Yes,No,21,13,25-34,Dullness
+Positive,,,,Skin,700,4.817142857142857,21, combination acne prone skin,32,32,4.96875,4.96875,, fungal acne,P4R602,5,14 August 2020,No,Yes,No,21,13,25-34,Dullness
+Negative,,,,Demographic,54,4.962962962962963,2, very dry T-Zone quickly,13,13,5.0,5.0,, Age is [35],P4R602,5,14 August 2020,No,Yes,No,21,13,25-34,Dullness
+Negative,,,,Skin,699,4.816881258941344,21, combination acne prone skin,32,32,4.96875,4.96875,, fungal acne,P4R602,5,14 August 2020,No,Yes,No,21,13,25-34,Dullness
+Positive,,,,Motivation,75,4.386666666666667,0, very dry T-Zone quickly,13,10,3.8,3.8461538461538463,, Read reviews on this product,P4R603,5,13 August 2020,No,Yes,No,7,0,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, redness gone,P4R603,5,13 August 2020,No,Yes,No,7,0,,Blackheads
+Positive,,,,Brand,34,4.764705882352941,1, very dry T-Zone quickly,7,7,5.0,5.0,, Thank you First Aid Beauty!!,P4R603,5,13 August 2020,No,Yes,No,7,0,,Blackheads
+Negative,,,,Motivation,75,4.386666666666667,0, very dry T-Zone quickly,13,10,3.8,3.8461538461538463,, Read reviews on this product,P4R603,5,13 August 2020,No,Yes,No,7,0,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, redness gone,P4R603,5,13 August 2020,No,Yes,No,7,0,,Blackheads
+Negative,,,,Brand,34,4.764705882352941,1, very dry T-Zone quickly,7,7,5.0,5.0,, Thank you First Aid Beauty!!,P4R603,5,13 August 2020,No,Yes,No,7,0,,Blackheads
+Positive,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, first tried this moisturizer as a free sample,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, reduced redness,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, good hydrating moisturizer,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Positive,,,,Texture,241,4.775933609958506,1, Very gentle,20,17,4.9411764705882355,4.95,, does NOT leave skin oily/greasy,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Positive,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, absorbs it immediately,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Positive,,,,Texture,241,4.775933609958506,3, Very gentle,19,18,4.722222222222222,4.7368421052631575,, not look glossy midday,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Positive,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, this one is PERFECTION,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Positive,,,,Purchase,46,4.934782608695652,1, very dry T-Zone quickly,26,24,4.916666666666667,4.923076923076923,, lifetime product for me,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Negative,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, first tried this moisturizer as a free sample,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, reduced redness,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, good hydrating moisturizer,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Negative,,,,Texture,241,4.775933609958506,1, Very gentle,20,17,4.9411764705882355,4.95,, does NOT leave skin oily/greasy,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Negative,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, absorbs it immediately,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Negative,,,,Texture,241,4.775933609958506,3, Very gentle,19,18,4.722222222222222,4.7368421052631575,, not look glossy midday,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Negative,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, this one is PERFECTION,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Negative,,,,Purchase,46,4.934782608695652,1, very dry T-Zone quickly,26,24,4.916666666666667,4.923076923076923,, lifetime product for me,P4R605,5,12 August 2020,No,Yes,No,26,1,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,33, price is worth it,12,12,4.75,4.75,, sensitive dry/combo skin,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, thick and hydrating,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,4, calm any redness,12,8,5.0,5.0,, pcos so,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, less redness,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,41, absorbs very well,13,13,5.0,5.0,, No bumps or acne,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Positive,,,,Texture,241,4.775933609958506,11, combination acne prone skin,22,20,4.7,4.7272727272727275,, feels thick,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Positive,,,,Demographic,54,4.962962962962963,3, Very gentle,16,15,4.933333333333334,4.9375,, laneige water cream for a year,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Positive,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, #holygrail,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,33, price is worth it,12,12,4.75,4.75,, sensitive dry/combo skin,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, thick and hydrating,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,4, calm any redness,12,8,5.0,5.0,, pcos so,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, less redness,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,41, absorbs very well,13,13,5.0,5.0,, No bumps or acne,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Negative,,,,Texture,241,4.775933609958506,11, combination acne prone skin,22,20,4.7,4.7272727272727275,, feels thick,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Negative,,,,Demographic,54,4.962962962962963,3, Very gentle,16,15,4.933333333333334,4.9375,, laneige water cream for a year,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Negative,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, #holygrail,P4R606,5,11 August 2020,No,Yes,No,7,0,,Blackheads
+Positive,,,,Demographic,54,4.962962962962963,0, very dry T-Zone quickly,23,22,4.863636363636363,4.869565217391305,, husband,P4R607,3,11 August 2020,No,No,No,32,4,,Calluses
+Positive,,,,Packaging,52,4.788461538461538,2, very dry T-Zone quickly,9,9,4.444444444444445,4.444444444444445,, PLEASE bring back the tube,P4R607,3,11 August 2020,No,No,No,32,4,,Calluses
+Negative,,,,Demographic,54,4.962962962962963,0, very dry T-Zone quickly,23,22,4.863636363636363,4.869565217391305,, husband,P4R607,3,11 August 2020,No,No,No,32,4,,Calluses
+Negative,,,,Packaging,52,4.788461538461538,2, very dry T-Zone quickly,9,9,4.444444444444445,4.444444444444445,, PLEASE bring back the tube,P4R607,3,11 August 2020,No,No,No,32,4,,Calluses
+Positive,,,,Texture,241,4.775933609958506,11, combination acne prone skin,22,20,4.7,4.7272727272727275,, thicker,P4R608,4,09 August 2020,No,Yes,No,0,0,,Dullness
+Positive,,,,Texture,241,4.775933609958506,20, dark acne scars,4,4,4.5,4.5,, soaks well,P4R608,4,09 August 2020,No,Yes,No,0,0,,Dullness
+Positive,,,,Texture,241,4.775933609958506,0, absorbs very well,10,10,4.5,4.5,, feels smooth,P4R608,4,09 August 2020,No,Yes,No,0,0,,Dullness
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, skill looks more hydrated,P4R608,4,09 August 2020,No,Yes,No,0,0,,Dullness
+Negative,,,,Texture,241,4.775933609958506,11, combination acne prone skin,22,20,4.7,4.7272727272727275,, thicker,P4R608,4,09 August 2020,No,Yes,No,0,0,,Dullness
+Negative,,,,Texture,241,4.775933609958506,20, dark acne scars,4,4,4.5,4.5,, soaks well,P4R608,4,09 August 2020,No,Yes,No,0,0,,Dullness
+Negative,,,,Texture,241,4.775933609958506,0, absorbs very well,10,10,4.5,4.5,, feels smooth,P4R608,4,09 August 2020,No,Yes,No,0,0,,Dullness
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, skill looks more hydrated,P4R608,4,09 August 2020,No,Yes,No,0,0,,Dullness
+Positive,,,,Motivation,75,4.386666666666667,1, very dry T-Zone quickly,19,19,4.421052631578948,4.421052631578948,, to buy the value size about 2 months ago,P4R610,5,07 August 2020,No,Yes,No,6,1,,
+Negative,,,,Motivation,75,4.386666666666667,1, very dry T-Zone quickly,19,19,4.421052631578948,4.421052631578948,, to buy the value size about 2 months ago,P4R610,5,07 August 2020,No,Yes,No,6,1,,
+Positive,,,,Skin,700,4.817142857142857,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, have eczema,P4R611,5,06 August 2020,No,Yes,No,3,0,45-54,Sun Damage
+Positive,,,,Skin,700,4.817142857142857,0, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, dry ski,P4R611,5,06 August 2020,No,Yes,No,3,0,45-54,Sun Damage
+Positive,,,,Texture,241,4.775933609958506,8, never caused an acne flare,20,20,4.8,4.8,, lightweight,P4R611,5,06 August 2020,No,Yes,No,3,0,45-54,Sun Damage
+Negative,,,,Skin,699,4.816881258941344,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, have eczema,P4R611,5,06 August 2020,No,Yes,No,3,0,45-54,Sun Damage
+Negative,,,,Skin,699,4.816881258941344,0, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, dry ski,P4R611,5,06 August 2020,No,Yes,No,3,0,45-54,Sun Damage
+Negative,,,,Texture,241,4.775933609958506,8, never caused an acne flare,20,20,4.8,4.8,, lightweight,P4R611,5,06 August 2020,No,Yes,No,3,0,45-54,Sun Damage
+Positive,,,,Skin,700,4.817142857142857,14, Age is [35],12,11,4.7272727272727275,4.5,, SUPER dry skin,P4R613,5,03 August 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Performance,76,4.921052631578948,3, very dry T-Zone quickly,7,7,5.0,5.0,, calms my skin,P4R613,5,03 August 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Performance,76,4.921052631578948,4, Very gentle,10,10,4.7,4.7,, makes it feel plump,P4R613,5,03 August 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,14, Age is [35],12,11,4.7272727272727275,4.5,, SUPER dry skin,P4R613,5,03 August 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Performance,76,4.921052631578948,3, very dry T-Zone quickly,7,7,5.0,5.0,, calms my skin,P4R613,5,03 August 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Performance,76,4.921052631578948,4, Very gentle,10,10,4.7,4.7,, makes it feel plump,P4R613,5,03 August 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,21, combination acne prone skin,32,32,4.96875,4.96875,, suffer from adult acne,P4R614,5,02 August 2020,No,Yes,No,9,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, dyshidrotic eczema,P4R614,5,02 August 2020,No,Yes,No,9,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,41, absorbs very well,13,13,5.0,5.0,, bumps my rash had,P4R614,5,02 August 2020,No,Yes,No,9,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,3, Read reviews on this product,24,23,4.869565217391305,4.875,, skin that was flaking,P4R614,5,02 August 2020,No,Yes,No,9,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,3, Read reviews on this product,24,23,4.869565217391305,4.875,, oily skin but now I’m pretty sure I was,P4R614,5,02 August 2020,No,Yes,No,9,1,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,3, Very gentle,18,18,5.0,5.0,, cannot say enough good stuff,P4R614,5,02 August 2020,No,Yes,No,9,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,21, combination acne prone skin,32,32,4.96875,4.96875,, suffer from adult acne,P4R614,5,02 August 2020,No,Yes,No,9,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, dyshidrotic eczema,P4R614,5,02 August 2020,No,Yes,No,9,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,41, absorbs very well,13,13,5.0,5.0,, bumps my rash had,P4R614,5,02 August 2020,No,Yes,No,9,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,3, Read reviews on this product,24,23,4.869565217391305,4.875,, skin that was flaking,P4R614,5,02 August 2020,No,Yes,No,9,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,3, Read reviews on this product,24,23,4.869565217391305,4.875,, oily skin but now I’m pretty sure I was,P4R614,5,02 August 2020,No,Yes,No,9,1,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,3, Very gentle,18,18,5.0,5.0,, cannot say enough good stuff,P4R614,5,02 August 2020,No,Yes,No,9,1,,Acne
+Positive,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, been buying the 8oz tube directly from FAB,P4R615,4,31 July 2020,No,Yes,No,8,1,,Aging
+Negative,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, been buying the 8oz tube directly from FAB,P4R615,4,31 July 2020,No,Yes,No,8,1,,Aging
+Positive,,,,Skin,700,4.817142857142857,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R616,5,31 July 2020,No,Yes,No,4,1,,Acne
+Positive,,,,Application,74,4.797297297297297,8, very dry T-Zone quickly,4,4,5.0,5.0,, using this with foundation,P4R616,5,31 July 2020,No,Yes,No,4,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R616,5,31 July 2020,No,Yes,No,4,1,,Acne
+Negative,,,,Application,74,4.797297297297297,8, very dry T-Zone quickly,4,4,5.0,5.0,, using this with foundation,P4R616,5,31 July 2020,No,Yes,No,4,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, Super thick,P4R617,5,30 July 2020,No,Yes,No,4,2,,Dullness
+Positive,,,,Skin,700,4.817142857142857,5, redness gone,43,41,4.634146341463414,4.651162790697675,, very moisturizing,P4R617,5,30 July 2020,No,Yes,No,4,2,,Dullness
+Negative,,,,Skin,699,4.816881258941344,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, Super thick,P4R617,5,30 July 2020,No,Yes,No,4,2,,Dullness
+Negative,,,,Skin,699,4.816881258941344,5, redness gone,43,41,4.634146341463414,4.651162790697675,, very moisturizing,P4R617,5,30 July 2020,No,Yes,No,4,2,,Dullness
+Positive,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, because I started watching a lot of skincare,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Positive,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, this brand is vegan AND cruelty free,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Positive,,,,Ingredients,12,4.833333333333333,0, very dry T-Zone quickly,12,9,4.888888888888889,4.833333333333333,, oat,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Positive,,,,Allergy,44,4.840909090909091,0, very dry T-Zone quickly,23,22,4.909090909090909,4.869565217391305,, even though i have combo skin,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Positive,,,,Allergy,44,4.840909090909091,3, very dry T-Zone quickly,2,2,5.0,5.0,,,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Positive,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, doesn't make me super oily,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Positive,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, thick cream,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Positive,,,,Application,74,4.797297297297297,0, Very gentle,16,15,4.866666666666666,4.8125,, my face and neck,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Negative,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, because I started watching a lot of skincare,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Negative,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, this brand is vegan AND cruelty free,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Negative,,,,Ingredients,12,4.833333333333333,0, very dry T-Zone quickly,12,9,4.888888888888889,4.833333333333333,, oat,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Negative,,,,Allergy,44,4.840909090909091,0, very dry T-Zone quickly,23,22,4.909090909090909,4.869565217391305,, even though i have combo skin,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Negative,,,,Allergy,44,4.840909090909091,3, very dry T-Zone quickly,2,2,5.0,5.0,,,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Negative,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, doesn't make me super oily,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Negative,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, thick cream,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Negative,,,,Application,74,4.797297297297297,0, Very gentle,16,15,4.866666666666666,4.8125,, my face and neck,P4R619,5,28 July 2020,No,Yes,No,16,3,,Acne
+Positive,,,,Packaging,52,4.788461538461538,2, very dry T-Zone quickly,9,9,4.444444444444445,4.444444444444445,, Tub size is quite large,P4R620,4,28 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Packaging,52,4.788461538461538,2, very dry T-Zone quickly,9,9,4.444444444444445,4.444444444444445,, Tub size is quite large,P4R620,4,28 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,5, redness gone,43,41,4.634146341463414,4.651162790697675,, extremely moisturizing,P4R621,5,27 July 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Texture,241,4.775933609958506,14, combination acne prone skin,5,5,4.8,4.8,, sinks right in,P4R621,5,27 July 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Texture,241,4.775933609958506,0, absorbs very well,10,10,4.5,4.5,, feels super smooth,P4R621,5,27 July 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, Great price too,P4R621,5,27 July 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Packaging,52,4.788461538461538,2, very dry T-Zone quickly,9,9,4.444444444444445,4.444444444444445,, $14/2oz tube,P4R621,5,27 July 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,5, redness gone,43,41,4.634146341463414,4.651162790697675,, extremely moisturizing,P4R621,5,27 July 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Texture,241,4.775933609958506,14, combination acne prone skin,5,5,4.8,4.8,, sinks right in,P4R621,5,27 July 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Texture,241,4.775933609958506,0, absorbs very well,10,10,4.5,4.5,, feels super smooth,P4R621,5,27 July 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, Great price too,P4R621,5,27 July 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Packaging,52,4.788461538461538,2, very dry T-Zone quickly,9,9,4.444444444444445,4.444444444444445,, $14/2oz tube,P4R621,5,27 July 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,15, first tried this moisturizer as a free sample,8,7,5.0,5.0,, damaged moisture barrier,P4R622,5,26 July 2020,No,Yes,No,10,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,15, first tried this moisturizer as a free sample,8,7,5.0,5.0,, my moisture barrier was completely healed,P4R622,5,26 July 2020,No,Yes,No,10,0,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,5, combination acne prone skin,10,10,5.0,5.0,, my holy grail,P4R622,5,26 July 2020,No,Yes,No,10,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,15, first tried this moisturizer as a free sample,8,7,5.0,5.0,, damaged moisture barrier,P4R622,5,26 July 2020,No,Yes,No,10,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,15, first tried this moisturizer as a free sample,8,7,5.0,5.0,, my moisture barrier was completely healed,P4R622,5,26 July 2020,No,Yes,No,10,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,5, combination acne prone skin,10,10,5.0,5.0,, my holy grail,P4R622,5,26 July 2020,No,Yes,No,10,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,30, combination skin,15,15,4.733333333333333,4.733333333333333,, I have rosacea,P4R623,5,25 July 2020,Yes,Yes,No,12,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, most of the redness go away,P4R623,5,25 July 2020,Yes,Yes,No,12,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,19, dark acne scars,30,27,4.925925925925926,4.933333333333334,, not greasy,P4R623,5,25 July 2020,Yes,Yes,No,12,0,,Aging
+Positive,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, doesn't smell bad,P4R623,5,25 July 2020,Yes,Yes,No,12,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,30, combination skin,14,14,4.714285714285714,4.714285714285714,, I have rosacea,P4R623,5,25 July 2020,Yes,Yes,No,12,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, most of the redness go away,P4R623,5,25 July 2020,Yes,Yes,No,12,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,19, dark acne scars,30,27,4.925925925925926,4.933333333333334,, not greasy,P4R623,5,25 July 2020,Yes,Yes,No,12,0,,Aging
+Negative,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, doesn't smell bad,P4R623,5,25 July 2020,Yes,Yes,No,12,0,,Aging
+Positive,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, first ingredient is colloidal oatmeal,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,19, does NOT leave skin oily/greasy,16,13,4.6923076923076925,4.75,, reducing irritation,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,26, absorbs it immediately,12,12,5.0,5.0,, soothing the skin,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,42, not look glossy midday,7,7,5.0,5.0,, act up with changes in the weather,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Positive,,,,Texture,241,4.775933609958506,17, absorbs very well,6,6,4.666666666666667,4.666666666666667,, rich consistency,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Positive,,,,Texture,241,4.775933609958506,8, never caused an acne flare,20,20,4.8,4.8,, doesn't feel too heavy,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Positive,,,,Odor,51,4.705882352941177,2, Very gentle,11,11,4.363636363636363,4.363636363636363,, appreciate that this is fragrance free,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Positive,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, For the price,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Positive,,,,Price,84,4.928571428571429,3, very dry T-Zone quickly,14,14,5.0,5.0,, this is definitely well worth it,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Negative,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, first ingredient is colloidal oatmeal,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,19, does NOT leave skin oily/greasy,16,13,4.6923076923076925,4.75,, reducing irritation,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,26, absorbs it immediately,12,12,5.0,5.0,, soothing the skin,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,42, not look glossy midday,7,7,5.0,5.0,, act up with changes in the weather,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Negative,,,,Texture,241,4.775933609958506,17, absorbs very well,6,6,4.666666666666667,4.666666666666667,, rich consistency,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Negative,,,,Texture,241,4.775933609958506,8, never caused an acne flare,20,20,4.8,4.8,, doesn't feel too heavy,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Negative,,,,Odor,51,4.705882352941177,2, Very gentle,11,11,4.363636363636363,4.363636363636363,, appreciate that this is fragrance free,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Negative,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, For the price,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Negative,,,,Price,84,4.928571428571429,3, very dry T-Zone quickly,14,14,5.0,5.0,, this is definitely well worth it,P4R624,5,25 July 2020,Yes,Yes,No,22,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,39, this one is PERFECTION,14,14,4.571428571428571,4.571428571428571,, sensitive,P4R625,1,23 July 2020,No,No,No,21,3,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,19, does NOT leave skin oily/greasy,16,13,4.6923076923076925,4.75,, relieves irritation,P4R625,1,23 July 2020,No,No,No,21,3,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,39, this one is PERFECTION,14,14,4.571428571428571,4.571428571428571,, sensitive,P4R625,1,23 July 2020,No,No,No,21,3,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,19, does NOT leave skin oily/greasy,16,13,4.6923076923076925,4.75,, relieves irritation,P4R625,1,23 July 2020,No,No,No,21,3,,Blackheads
+Positive,,,,Sentiment,119,4.9411764705882355,1, calm any redness,19,15,4.933333333333334,4.947368421052632,, BEST face cream I have ever owned,P4R626,5,23 July 2020,Yes,Yes,No,5,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, hydrated,P4R626,5,23 July 2020,Yes,Yes,No,5,0,,Aging
+Negative,,,,Sentiment,119,4.9411764705882355,1, calm any redness,19,15,4.933333333333334,4.947368421052632,, BEST face cream I have ever owned,P4R626,5,23 July 2020,Yes,Yes,No,5,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, hydrated,P4R626,5,23 July 2020,Yes,Yes,No,5,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,13, reduced redness,19,19,4.947368421052632,4.947368421052632,, oily skin,P4R627,5,23 July 2020,Yes,Yes,No,9,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,16, combination skin,9,9,5.0,5.0,, flakiness is gone,P4R627,5,23 July 2020,Yes,Yes,No,9,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,23, recommend trying this product,17,17,4.882352941176471,4.882352941176471,, soaks into my skin quickly,P4R627,5,23 July 2020,Yes,Yes,No,9,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, no oiliness throughout the day,P4R627,5,23 July 2020,Yes,Yes,No,9,0,,Acne
+Positive,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, Great price for an amazing product,P4R627,5,23 July 2020,Yes,Yes,No,9,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,13, reduced redness,19,19,4.947368421052632,4.947368421052632,, oily skin,P4R627,5,23 July 2020,Yes,Yes,No,9,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,16, combination skin,9,9,5.0,5.0,, flakiness is gone,P4R627,5,23 July 2020,Yes,Yes,No,9,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,23, recommend trying this product,17,17,4.882352941176471,4.882352941176471,, soaks into my skin quickly,P4R627,5,23 July 2020,Yes,Yes,No,9,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, no oiliness throughout the day,P4R627,5,23 July 2020,Yes,Yes,No,9,0,,Acne
+Negative,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, Great price for an amazing product,P4R627,5,23 July 2020,Yes,Yes,No,9,0,,Acne
+Positive,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, finally found a great moisturizer,P4R628,5,21 July 2020,No,Yes,No,4,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, thickness of the cream,P4R628,5,21 July 2020,No,Yes,No,4,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,5, redness gone,43,41,4.634146341463414,4.651162790697675,, soothes and moisturizes heavenly,P4R628,5,21 July 2020,No,Yes,No,4,0,,Acne
+Negative,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, finally found a great moisturizer,P4R628,5,21 July 2020,No,Yes,No,4,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, thickness of the cream,P4R628,5,21 July 2020,No,Yes,No,4,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,5, redness gone,43,41,4.634146341463414,4.651162790697675,, soothes and moisturizes heavenly,P4R628,5,21 July 2020,No,Yes,No,4,0,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,3, Very gentle,18,18,5.0,5.0,, cannot say enough good things about this product,P4R629,5,20 July 2020,Yes,Yes,No,7,0,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,5, redness gone,43,41,4.634146341463414,4.651162790697675,, moisturizing cream,P4R629,5,20 July 2020,Yes,Yes,No,7,0,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, my cheeks are noticeably less red,P4R629,5,20 July 2020,Yes,Yes,No,7,0,,Blackheads
+Positive,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, has no fragrance,P4R629,5,20 July 2020,Yes,Yes,No,7,0,,Blackheads
+Positive,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, bigger tub is so worth the money,P4R629,5,20 July 2020,Yes,Yes,No,7,0,,Blackheads
+Negative,,,,Sentiment,119,4.9411764705882355,3, Very gentle,18,18,5.0,5.0,, cannot say enough good things about this product,P4R629,5,20 July 2020,Yes,Yes,No,7,0,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,5, redness gone,43,41,4.634146341463414,4.651162790697675,, moisturizing cream,P4R629,5,20 July 2020,Yes,Yes,No,7,0,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, my cheeks are noticeably less red,P4R629,5,20 July 2020,Yes,Yes,No,7,0,,Blackheads
+Negative,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, has no fragrance,P4R629,5,20 July 2020,Yes,Yes,No,7,0,,Blackheads
+Negative,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, bigger tub is so worth the money,P4R629,5,20 July 2020,Yes,Yes,No,7,0,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, occasional redness due to eczema,P4R630,5,20 July 2020,Yes,Yes,No,4,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,7, fungal acne,11,11,4.818181818181818,4.818181818181818,, Soothing cream that sinks into skin,P4R630,5,20 July 2020,Yes,Yes,No,4,0,,Aging
+Positive,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, No fragrance,P4R630,5,20 July 2020,Yes,Yes,No,4,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, occasional redness due to eczema,P4R630,5,20 July 2020,Yes,Yes,No,4,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,7, fungal acne,11,11,4.818181818181818,4.818181818181818,, Soothing cream that sinks into skin,P4R630,5,20 July 2020,Yes,Yes,No,4,0,,Aging
+Negative,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, No fragrance,P4R630,5,20 July 2020,Yes,Yes,No,4,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,21, combination acne prone skin,32,32,4.96875,4.96875,, recent acne breakout,P4R631,5,19 July 2020,No,Yes,No,0,0,,Sun Damage
+Positive,,,,Skin,700,4.817142857142857,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, dry skin,P4R631,5,19 July 2020,No,Yes,No,0,0,,Sun Damage
+Positive,,,,Competitor,14,3.7857142857142856,0, very dry T-Zone quickly,14,11,3.4545454545454546,3.7857142857142856,, Tatcha water cream,P4R631,5,19 July 2020,No,Yes,No,0,0,,Sun Damage
+Positive,,,,Competitor,14,3.7857142857142856,0, very dry T-Zone quickly,14,11,3.4545454545454546,3.7857142857142856,, Peter thomas Roth water cream,P4R631,5,19 July 2020,No,Yes,No,0,0,,Sun Damage
+Negative,,,,Skin,699,4.816881258941344,21, combination acne prone skin,32,32,4.96875,4.96875,, recent acne breakout,P4R631,5,19 July 2020,No,Yes,No,0,0,,Sun Damage
+Negative,,,,Skin,699,4.816881258941344,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, dry skin,P4R631,5,19 July 2020,No,Yes,No,0,0,,Sun Damage
+Negative,,,,Competitor,14,3.7857142857142856,0, very dry T-Zone quickly,14,11,3.4545454545454546,3.7857142857142856,, Tatcha water cream,P4R631,5,19 July 2020,No,Yes,No,0,0,,Sun Damage
+Negative,,,,Competitor,14,3.7857142857142856,0, very dry T-Zone quickly,14,11,3.4545454545454546,3.7857142857142856,, Peter thomas Roth water cream,P4R631,5,19 July 2020,No,Yes,No,0,0,,Sun Damage
+Positive,,,,Performance,76,4.921052631578948,3, very dry T-Zone quickly,7,7,5.0,5.0,, calms down my skin,P4R632,5,19 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Performance,76,4.921052631578948,3, very dry T-Zone quickly,7,7,5.0,5.0,, calms down my skin,P4R632,5,19 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, SO great! Really kept my skin so hydrated,P4R633,5,19 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, not too oily,P4R633,5,19 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, with other FAB products,P4R633,5,19 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Purchase,46,4.934782608695652,2, Very gentle,16,16,4.9375,4.9375,, still had well over half of the tub left,P4R633,5,19 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Demographic,54,4.962962962962963,1, Very gentle,31,31,4.838709677419355,4.838709677419355,, colder months,P4R633,5,19 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, SO great! Really kept my skin so hydrated,P4R633,5,19 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, not too oily,P4R633,5,19 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, with other FAB products,P4R633,5,19 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Purchase,46,4.934782608695652,2, Very gentle,16,16,4.9375,4.9375,, still had well over half of the tub left,P4R633,5,19 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Demographic,54,4.962962962962963,1, Very gentle,31,31,4.838709677419355,4.838709677419355,, colder months,P4R633,5,19 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, extremely sensitive skin,P4R634,5,19 July 2020,No,Yes,No,4,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,21, combination acne prone skin,32,32,4.96875,4.96875,, break out in acne,P4R634,5,19 July 2020,No,Yes,No,4,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, some of my former redness,P4R634,5,19 July 2020,No,Yes,No,4,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,19, does NOT leave skin oily/greasy,16,13,4.6923076923076925,4.75,, irritation caused by previous products to subside,P4R634,5,19 July 2020,No,Yes,No,4,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, extremely sensitive skin,P4R634,5,19 July 2020,No,Yes,No,4,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,21, combination acne prone skin,32,32,4.96875,4.96875,, break out in acne,P4R634,5,19 July 2020,No,Yes,No,4,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, some of my former redness,P4R634,5,19 July 2020,No,Yes,No,4,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,19, does NOT leave skin oily/greasy,16,13,4.6923076923076925,4.75,, irritation caused by previous products to subside,P4R634,5,19 July 2020,No,Yes,No,4,0,,Acne
+Positive,,,,Demographic,54,4.962962962962963,1, Very gentle,31,31,4.838709677419355,4.838709677419355,, winter hits,P4R635,5,19 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Ingredients,12,4.833333333333333,0, very dry T-Zone quickly,12,9,4.888888888888889,4.833333333333333,, colloidal oatmeal,P4R635,5,19 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,16, combination skin,9,9,5.0,5.0,, some dry flakes,P4R635,5,19 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, nice hydrating factor,P4R635,5,19 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Demographic,54,4.962962962962963,1, Very gentle,31,31,4.838709677419355,4.838709677419355,, winter hits,P4R635,5,19 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Ingredients,12,4.833333333333333,0, very dry T-Zone quickly,12,9,4.888888888888889,4.833333333333333,, colloidal oatmeal,P4R635,5,19 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,16, combination skin,9,9,5.0,5.0,, some dry flakes,P4R635,5,19 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, nice hydrating factor,P4R635,5,19 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,15, fungal acne,10,10,4.6,4.6,, ur skin Very soft,P4R636,5,19 July 2020,Yes,Yes,Yes,1,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,15, fungal acne,10,10,4.6,4.6,, ur skin Very soft,P4R636,5,19 July 2020,Yes,Yes,Yes,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, super hydrating,P4R637,5,19 July 2020,Yes,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,13, reduced redness,19,19,4.947368421052632,4.947368421052632,, oily skin,P4R637,5,19 July 2020,Yes,Yes,No,1,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, super hydrating,P4R637,5,19 July 2020,Yes,Yes,No,1,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,13, reduced redness,19,19,4.947368421052632,4.947368421052632,, oily skin,P4R637,5,19 July 2020,Yes,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,13, reduced redness,19,19,4.947368421052632,4.947368421052632,, oily skin,P4R638,5,19 July 2020,No,Yes,No,2,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,13, reduced redness,19,19,4.947368421052632,4.947368421052632,, oily skin,P4R638,5,19 July 2020,No,Yes,No,2,0,,Acne
+Positive,,,,Application,74,4.797297297297297,1, very dry T-Zone quickly,13,13,4.6923076923076925,4.6923076923076925,, apply my night time retinoid,P4R639,4,17 July 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Application,74,4.797297297297297,9, Very gentle,21,19,4.7894736842105265,4.809523809523809,, my décolletage,P4R639,4,17 July 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, not oily cream,P4R639,4,17 July 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Application,74,4.797297297297297,1, very dry T-Zone quickly,13,13,4.6923076923076925,4.6923076923076925,, apply my night time retinoid,P4R639,4,17 July 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Application,74,4.797297297297297,9, Very gentle,21,19,4.7894736842105265,4.809523809523809,, my décolletage,P4R639,4,17 July 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, not oily cream,P4R639,4,17 July 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,2, pcos so,29,29,4.896551724137931,4.896551724137931,, My skin was so dehydrated,P4R640,5,16 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Motivation,75,4.386666666666667,2, dark acne scars,22,22,4.318181818181818,4.318181818181818,, i couldn’t be happier !,P4R640,5,16 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,2, pcos so,29,29,4.896551724137931,4.896551724137931,, My skin was so dehydrated,P4R640,5,16 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Motivation,75,4.386666666666667,2, dark acne scars,22,22,4.318181818181818,4.318181818181818,, i couldn’t be happier !,P4R640,5,16 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,2, very dry T-Zone quickly,25,24,5.0,5.0,, always recommend this product,P4R641,5,14 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, Works great with my skin.,P4R641,5,14 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,2, very dry T-Zone quickly,25,24,5.0,5.0,, always recommend this product,P4R641,5,14 July 2020,No,Yes,No,1,0,,Acne
+Negative,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, Works great with my skin.,P4R641,5,14 July 2020,No,Yes,No,1,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, heavy cream,P4R643,5,13 July 2020,No,Yes,No,0,1,,Acne
+Negative,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, heavy cream,P4R643,5,13 July 2020,No,Yes,No,0,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,2, pcos so,29,29,4.896551724137931,4.896551724137931,, ery hydrating to the skin,P4R644,4,12 July 2020,No,Yes,No,3,4,,Acne
+Negative,,,,Skin,699,4.816881258941344,2, pcos so,29,29,4.896551724137931,4.896551724137931,, ery hydrating to the skin,P4R644,4,12 July 2020,No,Yes,No,3,4,,Acne
+Positive,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, My dermatologist recommended it,P4R646,5,09 July 2020,No,Yes,No,8,1,,Dark Circles
+Negative,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, My dermatologist recommended it,P4R646,5,09 July 2020,No,Yes,No,8,1,,Dark Circles
+Positive,,,,Skin,700,4.817142857142857,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, very dry skin,P4R647,5,08 July 2020,No,Yes,No,3,0,,
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, reduced some of my redness,P4R647,5,08 July 2020,No,Yes,No,3,0,,
+Negative,,,,Skin,699,4.816881258941344,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, very dry skin,P4R647,5,08 July 2020,No,Yes,No,3,0,,
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, reduced some of my redness,P4R647,5,08 July 2020,No,Yes,No,3,0,,
+Positive,,,,Skin,700,4.817142857142857,33, price is worth it,12,12,4.75,4.75,, dry sensitive,P4R648,4,08 July 2020,No,Yes,No,4,4,,Acne
+Positive,,,,Skin,700,4.817142857142857,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, rip off on the 2oz size,P4R648,4,08 July 2020,No,Yes,No,4,4,,Acne
+Negative,,,,Skin,699,4.816881258941344,33, price is worth it,12,12,4.75,4.75,, dry sensitive,P4R648,4,08 July 2020,No,Yes,No,4,4,,Acne
+Negative,,,,Skin,699,4.816881258941344,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, rip off on the 2oz size,P4R648,4,08 July 2020,No,Yes,No,4,4,,Acne
+Positive,,,,Purchase,46,4.934782608695652,0, very dry T-Zone quickly,19,16,4.9375,4.947368421052632,, purchased it twice already,P4R649,5,08 July 2020,No,Yes,No,6,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,39, this one is PERFECTION,14,14,4.571428571428571,4.571428571428571,, sensitive,P4R649,5,08 July 2020,No,Yes,No,6,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, very dry skin,P4R649,5,08 July 2020,No,Yes,No,6,1,,Acne
+Positive,,,,Performance,76,4.921052631578948,2, Very gentle,8,8,5.0,5.0,, lasts forever,P4R649,5,08 July 2020,No,Yes,No,6,1,,Acne
+Negative,,,,Purchase,46,4.934782608695652,0, very dry T-Zone quickly,19,16,4.9375,4.947368421052632,, purchased it twice already,P4R649,5,08 July 2020,No,Yes,No,6,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,39, this one is PERFECTION,14,14,4.571428571428571,4.571428571428571,, sensitive,P4R649,5,08 July 2020,No,Yes,No,6,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, very dry skin,P4R649,5,08 July 2020,No,Yes,No,6,1,,Acne
+Negative,,,,Performance,76,4.921052631578948,2, Very gentle,8,8,5.0,5.0,, lasts forever,P4R649,5,08 July 2020,No,Yes,No,6,1,,Acne
+Positive,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, without feeling oily/ greasy,P4R650,5,07 July 2020,No,Yes,No,1,0,18-24,Blackheads
+Positive,,,,Texture,241,4.775933609958506,20, dark acne scars,4,4,4.5,4.5,, soaks in nicely,P4R650,5,07 July 2020,No,Yes,No,1,0,18-24,Blackheads
+Positive,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, not leaving the skin super shiny and greasy looking,P4R650,5,07 July 2020,No,Yes,No,1,0,18-24,Blackheads
+Negative,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, without feeling oily/ greasy,P4R650,5,07 July 2020,No,Yes,No,1,0,18-24,Blackheads
+Negative,,,,Texture,241,4.775933609958506,20, dark acne scars,4,4,4.5,4.5,, soaks in nicely,P4R650,5,07 July 2020,No,Yes,No,1,0,18-24,Blackheads
+Negative,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, not leaving the skin super shiny and greasy looking,P4R650,5,07 July 2020,No,Yes,No,1,0,18-24,Blackheads
+Positive,,,,Performance,76,4.921052631578948,1, combination acne prone skin,28,23,4.956521739130435,4.964285714285714,, intense acne,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Positive,,,,Performance,76,4.921052631578948,0, calm any redness,31,26,4.961538461538462,4.935483870967742,, protect and nourish my damaged moisture,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Positive,,,,Skin,700,4.817142857142857,15, first tried this moisturizer as a free sample,8,7,5.0,5.0,, damaged moisture barrier,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Positive,,,,Application,74,4.797297297297297,0, Very gentle,16,15,4.866666666666666,4.8125,, my face and neck,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Positive,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, without making my skin look nor feel greasy,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Positive,,,,Packaging,52,4.788461538461538,1, Very gentle,11,10,4.9,4.909090909090909,, amount you use is important,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Positive,,,,Packaging,52,4.788461538461538,0, combination acne prone skin,13,10,4.8,4.6923076923076925,, good,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Positive,,,,Packaging,52,4.788461538461538,1, Very gentle,11,10,4.9,4.909090909090909,, standard moisturizer,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Positive,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, making it my permanent moisturizer,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Negative,,,,Performance,76,4.921052631578948,1, combination acne prone skin,28,23,4.956521739130435,4.964285714285714,, intense acne,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Negative,,,,Performance,76,4.921052631578948,0, calm any redness,31,26,4.961538461538462,4.935483870967742,, protect and nourish my damaged moisture,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Negative,,,,Skin,699,4.816881258941344,15, first tried this moisturizer as a free sample,8,7,5.0,5.0,, damaged moisture barrier,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Negative,,,,Application,74,4.797297297297297,0, Very gentle,16,15,4.866666666666666,4.8125,, my face and neck,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Negative,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, without making my skin look nor feel greasy,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Negative,,,,Packaging,52,4.788461538461538,1, Very gentle,11,10,4.9,4.909090909090909,, amount you use is important,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Negative,,,,Packaging,52,4.788461538461538,0, combination acne prone skin,13,10,4.8,4.6923076923076925,, good,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Negative,,,,Packaging,52,4.788461538461538,1, Very gentle,11,10,4.9,4.909090909090909,, standard moisturizer,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Negative,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, making it my permanent moisturizer,P4R651,5,06 July 2020,No,Yes,No,16,2,13-17,Blackheads
+Positive,,,,Skin,700,4.817142857142857,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, dry skin,P4R653,4,04 July 2020,No,Yes,Yes,5,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,40, thicker,12,12,4.916666666666667,4.916666666666667,, really helped my dryness,P4R653,4,04 July 2020,No,Yes,Yes,5,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, dry skin,P4R653,4,04 July 2020,No,Yes,Yes,5,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,40, thicker,12,12,4.916666666666667,4.916666666666667,, really helped my dryness,P4R653,4,04 July 2020,No,Yes,Yes,5,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,12, first tried this moisturizer as a free sample,10,10,4.2,4.2,, nice texture,P4R654,3,02 July 2020,No,No,No,8,0,45-54,Aging
+Negative,,,,Texture,241,4.775933609958506,12, first tried this moisturizer as a free sample,10,10,4.2,4.2,, nice texture,P4R654,3,02 July 2020,No,No,No,8,0,45-54,Aging
+Positive,,,,Texture,241,4.775933609958506,12, first tried this moisturizer as a free sample,10,10,4.2,4.2,, love the texture,P4R655,5,01 July 2020,No,Yes,No,0,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,9, soaks well,43,41,4.804878048780488,4.813953488372093,, skin loves it,P4R655,5,01 July 2020,No,Yes,No,0,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,12, first tried this moisturizer as a free sample,10,10,4.2,4.2,, love the texture,P4R655,5,01 July 2020,No,Yes,No,0,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,9, soaks well,43,41,4.804878048780488,4.813953488372093,, skin loves it,P4R655,5,01 July 2020,No,Yes,No,0,0,,Aging
+Positive,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, because of the ingredients,P4R656,2,29 June 2020,No,No,No,3,4,,Acne
+Negative,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, because of the ingredients,P4R656,2,29 June 2020,No,No,No,3,4,,Acne
+Positive,,,,Demographic,54,4.962962962962963,0, very dry T-Zone quickly,23,22,4.863636363636363,4.869565217391305,, boyfriend,P4R660,5,26 June 2020,No,Yes,No,7,1,,Aging
+Positive,,,,Skin,700,4.817142857142857,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R660,5,26 June 2020,No,Yes,No,7,1,,Aging
+Positive,,,,Skin,700,4.817142857142857,17, skill looks more hydrated,31,26,4.961538461538462,4.967741935483871,, mostly dry,P4R660,5,26 June 2020,No,Yes,No,7,1,,Aging
+Positive,,,,Skin,700,4.817142857142857,35, thicker,7,7,4.0,4.0,,,P4R660,5,26 June 2020,No,Yes,No,7,1,,Aging
+Negative,,,,Demographic,54,4.962962962962963,0, very dry T-Zone quickly,23,22,4.863636363636363,4.869565217391305,, boyfriend,P4R660,5,26 June 2020,No,Yes,No,7,1,,Aging
+Negative,,,,Skin,699,4.816881258941344,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R660,5,26 June 2020,No,Yes,No,7,1,,Aging
+Negative,,,,Skin,699,4.816881258941344,17, skill looks more hydrated,31,26,4.961538461538462,4.967741935483871,, mostly dry,P4R660,5,26 June 2020,No,Yes,No,7,1,,Aging
+Negative,,,,Skin,699,4.816881258941344,36, thicker,7,7,4.0,4.0,,,P4R660,5,26 June 2020,No,Yes,No,7,1,,Aging
+Positive,,,,Sentiment,119,4.9411764705882355,2, very dry T-Zone quickly,25,24,5.0,5.0,, love this product,P4R662,5,25 June 2020,No,Yes,No,6,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,2, pcos so,29,29,4.896551724137931,4.896551724137931,, my skin looked more hydrated,P4R662,5,25 June 2020,No,Yes,No,6,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, absorbs into the skin fast,P4R662,5,25 June 2020,No,Yes,No,6,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,16, good hydrating moisturizer,17,17,4.823529411764706,4.823529411764706,, leaves no residue on the skin,P4R662,5,25 June 2020,No,Yes,No,6,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,2, very dry T-Zone quickly,25,24,5.0,5.0,, love this product,P4R662,5,25 June 2020,No,Yes,No,6,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,2, pcos so,29,29,4.896551724137931,4.896551724137931,, my skin looked more hydrated,P4R662,5,25 June 2020,No,Yes,No,6,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, absorbs into the skin fast,P4R662,5,25 June 2020,No,Yes,No,6,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,16, good hydrating moisturizer,17,17,4.823529411764706,4.823529411764706,, leaves no residue on the skin,P4R662,5,25 June 2020,No,Yes,No,6,0,,Acne
+Positive,,,,Packaging,52,4.788461538461538,3, dark acne scars,12,12,4.916666666666667,4.916666666666667,, bring back the 8oz squeeze bottle please,P4R663,5,22 June 2020,No,Yes,No,37,0,,Acne
+Negative,,,,Packaging,52,4.788461538461538,3, dark acne scars,12,12,4.916666666666667,4.916666666666667,, bring back the 8oz squeeze bottle please,P4R663,5,22 June 2020,No,Yes,No,37,0,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, always find myself coming back to this one,P4R665,5,21 June 2020,No,Yes,No,7,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, it’s so hydrating,P4R665,5,21 June 2020,No,Yes,No,7,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,9, soaks well,43,41,4.804878048780488,4.813953488372093,, skin just looks so much healthier,P4R665,5,21 June 2020,No,Yes,No,7,0,,Acne
+Positive,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, ingredients are bomb for my sensitive skin,P4R665,5,21 June 2020,No,Yes,No,7,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, always find myself coming back to this one,P4R665,5,21 June 2020,No,Yes,No,7,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, it’s so hydrating,P4R665,5,21 June 2020,No,Yes,No,7,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,9, soaks well,43,41,4.804878048780488,4.813953488372093,, skin just looks so much healthier,P4R665,5,21 June 2020,No,Yes,No,7,0,,Acne
+Negative,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, ingredients are bomb for my sensitive skin,P4R665,5,21 June 2020,No,Yes,No,7,0,,Acne
+Positive,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, great price for the quantity,P4R666,5,19 June 2020,No,Yes,No,2,1,,Acne
+Positive,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, isn't full of unnecessary ingredients,P4R666,5,19 June 2020,No,Yes,No,2,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, balance of hydration,P4R666,5,19 June 2020,No,Yes,No,2,1,,Acne
+Positive,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, without leaving a greasy residue,P4R666,5,19 June 2020,No,Yes,No,2,1,,Acne
+Positive,,,,Demographic,54,4.962962962962963,1, Very gentle,31,31,4.838709677419355,4.838709677419355,, winter months,P4R666,5,19 June 2020,No,Yes,No,2,1,,Acne
+Negative,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, great price for the quantity,P4R666,5,19 June 2020,No,Yes,No,2,1,,Acne
+Negative,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, isn't full of unnecessary ingredients,P4R666,5,19 June 2020,No,Yes,No,2,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, balance of hydration,P4R666,5,19 June 2020,No,Yes,No,2,1,,Acne
+Negative,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, without leaving a greasy residue,P4R666,5,19 June 2020,No,Yes,No,2,1,,Acne
+Negative,,,,Demographic,54,4.962962962962963,1, Very gentle,31,31,4.838709677419355,4.838709677419355,, winter months,P4R666,5,19 June 2020,No,Yes,No,2,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, dry textured skin,P4R667,5,19 June 2020,No,Yes,No,1,0,,Dark Circles
+Negative,,,,Skin,699,4.816881258941344,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, dry textured skin,P4R667,5,19 June 2020,No,Yes,No,1,0,,Dark Circles
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, really reaaally sensitive skin,P4R668,5,18 June 2020,No,Yes,No,5,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, helped with my redness,P4R668,5,18 June 2020,No,Yes,No,5,0,,Acne
+Positive,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, price is fair,P4R668,5,18 June 2020,No,Yes,No,5,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, really reaaally sensitive skin,P4R668,5,18 June 2020,No,Yes,No,5,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, helped with my redness,P4R668,5,18 June 2020,No,Yes,No,5,0,,Acne
+Negative,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, price is fair,P4R668,5,18 June 2020,No,Yes,No,5,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,21, combination acne prone skin,32,32,4.96875,4.96875,, fungal acne,P4R669,5,16 June 2020,No,Yes,No,10,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,30, combination skin,15,15,4.733333333333333,4.733333333333333,, rosacea,P4R669,5,16 June 2020,No,Yes,No,10,0,,Acne
+Positive,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, smell is very light,P4R669,5,16 June 2020,No,Yes,No,10,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,23, recommend trying this product,17,17,4.882352941176471,4.882352941176471,, heavyweight on my skin,P4R669,5,16 June 2020,No,Yes,No,10,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,3, Very gentle,19,18,4.722222222222222,4.7368421052631575,, but it's not,P4R669,5,16 June 2020,No,Yes,No,10,0,,Acne
+Positive,,,,Application,74,4.797297297297297,10, calm any redness,6,6,5.0,5.0,, apply it after B5 serum,P4R669,5,16 June 2020,No,Yes,No,10,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,21, combination acne prone skin,32,32,4.96875,4.96875,, fungal acne,P4R669,5,16 June 2020,No,Yes,No,10,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,30, combination skin,14,14,4.714285714285714,4.714285714285714,, rosacea,P4R669,5,16 June 2020,No,Yes,No,10,0,,Acne
+Negative,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, smell is very light,P4R669,5,16 June 2020,No,Yes,No,10,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,23, recommend trying this product,17,17,4.882352941176471,4.882352941176471,, heavyweight on my skin,P4R669,5,16 June 2020,No,Yes,No,10,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,3, Very gentle,19,18,4.722222222222222,4.7368421052631575,, but it's not,P4R669,5,16 June 2020,No,Yes,No,10,0,,Acne
+Negative,,,,Application,74,4.797297297297297,10, calm any redness,6,6,5.0,5.0,, apply it after B5 serum,P4R669,5,16 June 2020,No,Yes,No,10,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,13, reduced redness,19,19,4.947368421052632,4.947368421052632,, Normal to oily skin,P4R670,5,15 June 2020,Yes,Yes,No,10,0,13-17,Acne
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, got rid of the redness,P4R670,5,15 June 2020,Yes,Yes,No,10,0,13-17,Acne
+Positive,,,,Skin,700,4.817142857142857,32, SUPER dry skin,6,6,4.833333333333333,4.833333333333333,, peeling immediately,P4R670,5,15 June 2020,Yes,Yes,No,10,0,13-17,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,2, very dry T-Zone quickly,25,24,5.0,5.0,, It also works amazing,P4R670,5,15 June 2020,Yes,Yes,No,10,0,13-17,Acne
+Positive,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, absorbs into the skin not leaving me greasy,P4R670,5,15 June 2020,Yes,Yes,No,10,0,13-17,Acne
+Positive,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, This is cheap,P4R670,5,15 June 2020,Yes,Yes,No,10,0,13-17,Acne
+Negative,,,,Skin,699,4.816881258941344,13, reduced redness,19,19,4.947368421052632,4.947368421052632,, Normal to oily skin,P4R670,5,15 June 2020,Yes,Yes,No,10,0,13-17,Acne
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, got rid of the redness,P4R670,5,15 June 2020,Yes,Yes,No,10,0,13-17,Acne
+Negative,,,,Skin,699,4.816881258941344,32, SUPER dry skin,6,6,4.833333333333333,4.833333333333333,, peeling immediately,P4R670,5,15 June 2020,Yes,Yes,No,10,0,13-17,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,2, very dry T-Zone quickly,25,24,5.0,5.0,, It also works amazing,P4R670,5,15 June 2020,Yes,Yes,No,10,0,13-17,Acne
+Negative,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, absorbs into the skin not leaving me greasy,P4R670,5,15 June 2020,Yes,Yes,No,10,0,13-17,Acne
+Negative,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, This is cheap,P4R670,5,15 June 2020,Yes,Yes,No,10,0,13-17,Acne
+Positive,,,,Skin,700,4.817142857142857,3, Read reviews on this product,24,23,4.869565217391305,4.875,, my forehead was still flaking and dry ,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, significant change,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Positive,,,,Motivation,75,4.386666666666667,5, recommend trying this product,12,11,4.181818181818182,4.25,, went into the Sephora seeking some help,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Positive,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, I’m not a fan of the smell,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, thick enough to rub into skin ,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,3, Very gentle,19,18,4.722222222222222,4.7368421052631575,, doesn’t leave any greasiness,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Positive,,,,Purchase,46,4.934782608695652,1, very dry T-Zone quickly,26,24,4.916666666666667,4.923076923076923,, I love it and as long as it keeps working for my skin,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,3, Read reviews on this product,24,23,4.869565217391305,4.875,, my forehead was still flaking and dry ,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, significant change,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Negative,,,,Motivation,75,4.386666666666667,5, recommend trying this product,12,11,4.181818181818182,4.25,, went into the Sephora seeking some help,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Negative,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, I’m not a fan of the smell,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, thick enough to rub into skin ,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,3, Very gentle,19,18,4.722222222222222,4.7368421052631575,, doesn’t leave any greasiness,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Negative,,,,Purchase,46,4.934782608695652,1, very dry T-Zone quickly,26,24,4.916666666666667,4.923076923076923,, I love it and as long as it keeps working for my skin,P4R671,4,15 June 2020,No,Yes,No,9,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,13, reduced redness,19,19,4.947368421052632,4.947368421052632,, combination/oily skin,P4R672,5,14 June 2020,Yes,Yes,No,3,1,,
+Positive,,,,Performance,76,4.921052631578948,0, calm any redness,31,26,4.961538461538462,4.935483870967742,, cracks have healed,P4R672,5,14 June 2020,Yes,Yes,No,3,1,,
+Negative,,,,Skin,699,4.816881258941344,13, reduced redness,19,19,4.947368421052632,4.947368421052632,, combination/oily skin,P4R672,5,14 June 2020,Yes,Yes,No,3,1,,
+Negative,,,,Performance,76,4.921052631578948,0, calm any redness,31,26,4.961538461538462,4.935483870967742,, cracks have healed,P4R672,5,14 June 2020,Yes,Yes,No,3,1,,
+Positive,,,,Motivation,75,4.386666666666667,1, very dry T-Zone quickly,19,19,4.421052631578948,4.421052631578948,, sample packets of the FAB,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,35, thicker,7,7,4.0,4.0,,,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,11, combination acne prone skin,22,20,4.7,4.7272727272727275,, thicker side,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,15, fungal acne,10,10,4.6,4.6,, so soft,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,0, absorbs very well,10,10,4.5,4.5,, smooth,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,21, does NOT leave skin oily/greasy,3,3,3.6666666666666665,3.6666666666666665,,,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Negative,,,,Motivation,75,4.386666666666667,1, very dry T-Zone quickly,19,19,4.421052631578948,4.421052631578948,, sample packets of the FAB,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,36, thicker,7,7,4.0,4.0,,,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,11, combination acne prone skin,22,20,4.7,4.7272727272727275,, thicker side,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,15, fungal acne,10,10,4.6,4.6,, so soft,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,0, absorbs very well,10,10,4.5,4.5,, smooth,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,21, does NOT leave skin oily/greasy,3,3,3.6666666666666665,3.6666666666666665,,,P4R673,1,13 June 2020,No,No,No,26,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,2, absorbs it immediately,14,12,4.833333333333333,4.857142857142857,, SO hydrating,P4R674,5,13 June 2020,Yes,Yes,No,0,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,16, good hydrating moisturizer,17,17,4.823529411764706,4.823529411764706,, doesn't just sit on top,P4R674,5,13 June 2020,Yes,Yes,No,0,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,2, absorbs it immediately,14,12,4.833333333333333,4.857142857142857,, SO hydrating,P4R674,5,13 June 2020,Yes,Yes,No,0,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,16, good hydrating moisturizer,17,17,4.823529411764706,4.823529411764706,, doesn't just sit on top,P4R674,5,13 June 2020,Yes,Yes,No,0,0,,Acne
+Positive,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, Clinique's Dramatically Different,P4R675,3,13 June 2020,No,No,No,4,2,,Acne
+Negative,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, Clinique's Dramatically Different,P4R675,3,13 June 2020,No,No,No,4,2,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,5, combination acne prone skin,10,10,5.0,5.0,, my holy grail moisturizer,P4R676,5,13 June 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,33, price is worth it,12,12,4.75,4.75,, dry and sensitive skin,P4R676,5,13 June 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Purchase,46,4.934782608695652,1, very dry T-Zone quickly,26,24,4.916666666666667,4.923076923076923,, been through a few empties of this item,P4R676,5,13 June 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,5, combination acne prone skin,10,10,5.0,5.0,, my holy grail moisturizer,P4R676,5,13 June 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,33, price is worth it,12,12,4.75,4.75,, dry and sensitive skin,P4R676,5,13 June 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Purchase,46,4.934782608695652,1, very dry T-Zone quickly,26,24,4.916666666666667,4.923076923076923,, been through a few empties of this item,P4R676,5,13 June 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, sensitive skin,P4R677,5,13 June 2020,No,Yes,No,10,2,Over54,Blackheads
+Positive,,,,Skin,700,4.817142857142857,1, bumps my rash had,8,8,5.0,5.0,, doesn't break me out,P4R677,5,13 June 2020,No,Yes,No,10,2,Over54,Blackheads
+Positive,,,,Demographic,54,4.962962962962963,2, very dry T-Zone quickly,13,13,5.0,5.0,, my mid 40s,P4R677,5,13 June 2020,No,Yes,No,10,2,Over54,Blackheads
+Positive,,,,Allergy,44,4.840909090909091,0, very dry T-Zone quickly,23,22,4.909090909090909,4.869565217391305,, doesn't leave a greasy,P4R677,5,13 June 2020,No,Yes,No,10,2,Over54,Blackheads
+Positive,,,,Purchase,46,4.934782608695652,0, very dry T-Zone quickly,19,16,4.9375,4.947368421052632,, will be the 3rd time I have purchased,P4R677,5,13 June 2020,No,Yes,No,10,2,Over54,Blackheads
+Positive,,,,Sentiment,119,4.9411764705882355,7, dark acne scars,13,13,4.846153846153846,4.846153846153846,, Highly recommend this.,P4R677,5,13 June 2020,No,Yes,No,10,2,Over54,Blackheads
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, sensitive skin,P4R677,5,13 June 2020,No,Yes,No,10,2,Over54,Blackheads
+Negative,,,,Skin,699,4.816881258941344,1, bumps my rash had,8,8,5.0,5.0,, doesn't break me out,P4R677,5,13 June 2020,No,Yes,No,10,2,Over54,Blackheads
+Negative,,,,Demographic,54,4.962962962962963,2, very dry T-Zone quickly,13,13,5.0,5.0,, my mid 40s,P4R677,5,13 June 2020,No,Yes,No,10,2,Over54,Blackheads
+Negative,,,,Allergy,44,4.840909090909091,0, very dry T-Zone quickly,23,22,4.909090909090909,4.869565217391305,, doesn't leave a greasy,P4R677,5,13 June 2020,No,Yes,No,10,2,Over54,Blackheads
+Negative,,,,Purchase,46,4.934782608695652,0, very dry T-Zone quickly,19,16,4.9375,4.947368421052632,, will be the 3rd time I have purchased,P4R677,5,13 June 2020,No,Yes,No,10,2,Over54,Blackheads
+Negative,,,,Sentiment,119,4.9411764705882355,7, dark acne scars,13,13,4.846153846153846,4.846153846153846,, Highly recommend this.,P4R677,5,13 June 2020,No,Yes,No,10,2,Over54,Blackheads
+Positive,,,,Demographic,54,4.962962962962963,7, never caused an acne flare,13,13,5.0,5.0,, Purchased for my daughter,P4R678,5,13 June 2020,Yes,Yes,No,4,0,45-54,Aging
+Positive,,,,Skin,700,4.817142857142857,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, this eczema Spot,P4R678,5,13 June 2020,Yes,Yes,No,4,0,45-54,Aging
+Positive,,,,Skin,700,4.817142857142857,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, dry patch is fading,P4R678,5,13 June 2020,Yes,Yes,No,4,0,45-54,Aging
+Negative,,,,Demographic,54,4.962962962962963,7, never caused an acne flare,13,13,5.0,5.0,, Purchased for my daughter,P4R678,5,13 June 2020,Yes,Yes,No,4,0,45-54,Aging
+Negative,,,,Skin,699,4.816881258941344,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, this eczema Spot,P4R678,5,13 June 2020,Yes,Yes,No,4,0,45-54,Aging
+Negative,,,,Skin,699,4.816881258941344,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, dry patch is fading,P4R678,5,13 June 2020,Yes,Yes,No,4,0,45-54,Aging
+Positive,,,,Skin,700,4.817142857142857,14, Age is [35],12,11,4.7272727272727275,4.5,, super dry skin,P4R679,5,12 June 2020,No,Yes,No,4,1,,Dullness
+Negative,,,,Skin,699,4.816881258941344,14, Age is [35],12,11,4.7272727272727275,4.5,, super dry skin,P4R679,5,12 June 2020,No,Yes,No,4,1,,Dullness
+Positive,,,,Skin,700,4.817142857142857,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R680,3,12 June 2020,Yes,No,No,0,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R680,3,12 June 2020,Yes,No,No,0,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, It’s hydrating,P4R681,1,12 June 2020,No,No,No,12,5,,Acne
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, It’s hydrating,P4R681,1,12 June 2020,No,No,No,12,5,,Acne
+Positive,,,,Skin,700,4.817142857142857,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, eczema (stress-related),P4R682,5,12 June 2020,Yes,Yes,No,2,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,25, skin that was flaking,13,13,4.846153846153846,4.846153846153846,, horrible itchy dryness,P4R682,5,12 June 2020,Yes,Yes,No,2,0,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, saved my face,P4R682,5,12 June 2020,Yes,Yes,No,2,0,,Acne
+Positive,,,,Application,74,4.797297297297297,0, Very gentle,16,15,4.866666666666666,4.8125,, both face and body,P4R682,5,12 June 2020,Yes,Yes,No,2,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, eczema (stress-related),P4R682,5,12 June 2020,Yes,Yes,No,2,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,25, skin that was flaking,13,13,4.846153846153846,4.846153846153846,, horrible itchy dryness,P4R682,5,12 June 2020,Yes,Yes,No,2,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, saved my face,P4R682,5,12 June 2020,Yes,Yes,No,2,0,,Acne
+Negative,,,,Application,74,4.797297297297297,0, Very gentle,16,15,4.866666666666666,4.8125,, both face and body,P4R682,5,12 June 2020,Yes,Yes,No,2,0,,Acne
+Positive,,,,Performance,76,4.921052631578948,4, Very gentle,10,10,4.7,4.7,, heeled my dry skin,P4R683,5,12 June 2020,Yes,Yes,No,0,0,,Acne
+Positive,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, price points its much much better,P4R683,5,12 June 2020,Yes,Yes,No,0,0,,Acne
+Negative,,,,Performance,76,4.921052631578948,4, Very gentle,10,10,4.7,4.7,, heeled my dry skin,P4R683,5,12 June 2020,Yes,Yes,No,0,0,,Acne
+Negative,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, price points its much much better,P4R683,5,12 June 2020,Yes,Yes,No,0,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, cleared my redness,P4R684,5,10 June 2020,No,Yes,No,1,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,9, soaks well,43,41,4.804878048780488,4.813953488372093,, my skin feel moisturizerd,P4R684,5,10 June 2020,No,Yes,No,1,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, cleared my redness,P4R684,5,10 June 2020,No,Yes,No,1,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,9, soaks well,43,41,4.804878048780488,4.813953488372093,, my skin feel moisturizerd,P4R684,5,10 June 2020,No,Yes,No,1,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,9, soaks well,43,41,4.804878048780488,4.813953488372093,, my skin not broken out,P4R685,5,10 June 2020,No,Yes,No,2,0,,Sensitivity
+Positive,,,,Skin,700,4.817142857142857,21, combination acne prone skin,32,32,4.96875,4.96875,, hormonal acne,P4R685,5,10 June 2020,No,Yes,No,2,0,,Sensitivity
+Positive,,,,Skin,700,4.817142857142857,41, absorbs very well,13,13,5.0,5.0,, bumps on my arms,P4R685,5,10 June 2020,No,Yes,No,2,0,,Sensitivity
+Positive,,,,Allergy,44,4.840909090909091,0, very dry T-Zone quickly,23,22,4.909090909090909,4.869565217391305,, his hasn’t instigated,P4R685,5,10 June 2020,No,Yes,No,2,0,,Sensitivity
+Positive,,,,Texture,241,4.775933609958506,16, good hydrating moisturizer,17,17,4.823529411764706,4.823529411764706,, no leftover residue,P4R685,5,10 June 2020,No,Yes,No,2,0,,Sensitivity
+Positive,,,,Demographic,54,4.962962962962963,0, very dry T-Zone quickly,23,22,4.863636363636363,4.869565217391305,, mother,P4R685,5,10 June 2020,No,Yes,No,2,0,,Sensitivity
+Negative,,,,Skin,699,4.816881258941344,9, soaks well,43,41,4.804878048780488,4.813953488372093,, my skin not broken out,P4R685,5,10 June 2020,No,Yes,No,2,0,,Sensitivity
+Negative,,,,Skin,699,4.816881258941344,21, combination acne prone skin,32,32,4.96875,4.96875,, hormonal acne,P4R685,5,10 June 2020,No,Yes,No,2,0,,Sensitivity
+Negative,,,,Skin,699,4.816881258941344,41, absorbs very well,13,13,5.0,5.0,, bumps on my arms,P4R685,5,10 June 2020,No,Yes,No,2,0,,Sensitivity
+Negative,,,,Allergy,44,4.840909090909091,0, very dry T-Zone quickly,23,22,4.909090909090909,4.869565217391305,, his hasn’t instigated,P4R685,5,10 June 2020,No,Yes,No,2,0,,Sensitivity
+Negative,,,,Texture,241,4.775933609958506,16, good hydrating moisturizer,17,17,4.823529411764706,4.823529411764706,, no leftover residue,P4R685,5,10 June 2020,No,Yes,No,2,0,,Sensitivity
+Negative,,,,Demographic,54,4.962962962962963,0, very dry T-Zone quickly,23,22,4.863636363636363,4.869565217391305,, mother,P4R685,5,10 June 2020,No,Yes,No,2,0,,Sensitivity
+Positive,,,,Skin,700,4.817142857142857,25, skin that was flaking,13,13,4.846153846153846,4.846153846153846,, eases the pain and itch,P4R686,5,07 June 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,25, skin that was flaking,13,13,4.846153846153846,4.846153846153846,, eases the pain and itch,P4R686,5,07 June 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, don't wake up with a greasy face,P4R687,4,06 June 2020,Yes,Yes,No,1,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, don't get super oily,P4R687,4,06 June 2020,Yes,Yes,No,1,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, don't wake up with a greasy face,P4R687,4,06 June 2020,Yes,Yes,No,1,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, don't get super oily,P4R687,4,06 June 2020,Yes,Yes,No,1,0,,Acne
+Positive,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, ot get over how much I like this brand,P4R688,5,04 June 2020,Yes,Yes,No,1,1,,Aging
+Negative,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, ot get over how much I like this brand,P4R688,5,04 June 2020,Yes,Yes,No,1,1,,Aging
+Positive,,,,Skin,700,4.817142857142857,28, combination skin,16,16,4.6875,4.6875,, good for sensitive skin,P4R689,3,04 June 2020,No,No,No,7,7,,Aging
+Negative,,,,Skin,699,4.816881258941344,28, combination skin,16,16,4.6875,4.6875,, good for sensitive skin,P4R689,3,04 June 2020,No,No,No,7,7,,Aging
+Positive,,,,Demographic,54,4.962962962962963,2, very dry T-Zone quickly,13,13,5.0,5.0,, am 26,P4R690,5,02 June 2020,No,Yes,No,4,0,25-34,
+Positive,,,,Demographic,54,4.962962962962963,4, combination acne prone skin,5,5,5.0,5.0,,,P4R690,5,02 June 2020,No,Yes,No,4,0,25-34,
+Positive,,,,Skin,700,4.817142857142857,21, combination acne prone skin,32,32,4.96875,4.96875,, hormonal acne,P4R690,5,02 June 2020,No,Yes,No,4,0,25-34,
+Positive,,,,Skin,700,4.817142857142857,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, eczema on my face,P4R690,5,02 June 2020,No,Yes,No,4,0,25-34,
+Positive,,,,Skin,700,4.817142857142857,35, thicker,7,7,4.0,4.0,,,P4R690,5,02 June 2020,No,Yes,No,4,0,25-34,
+Positive,,,,Performance,76,4.921052631578948,3, very dry T-Zone quickly,7,7,5.0,5.0,, helped to calm,P4R690,5,02 June 2020,No,Yes,No,4,0,25-34,
+Negative,,,,Demographic,54,4.962962962962963,2, very dry T-Zone quickly,13,13,5.0,5.0,, am 26,P4R690,5,02 June 2020,No,Yes,No,4,0,25-34,
+Negative,,,,Demographic,54,4.962962962962963,4, combination acne prone skin,5,5,5.0,5.0,,,P4R690,5,02 June 2020,No,Yes,No,4,0,25-34,
+Negative,,,,Skin,699,4.816881258941344,21, combination acne prone skin,32,32,4.96875,4.96875,, hormonal acne,P4R690,5,02 June 2020,No,Yes,No,4,0,25-34,
+Negative,,,,Skin,699,4.816881258941344,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, eczema on my face,P4R690,5,02 June 2020,No,Yes,No,4,0,25-34,
+Negative,,,,Skin,699,4.816881258941344,36, thicker,7,7,4.0,4.0,,,P4R690,5,02 June 2020,No,Yes,No,4,0,25-34,
+Negative,,,,Performance,76,4.921052631578948,3, very dry T-Zone quickly,7,7,5.0,5.0,, helped to calm,P4R690,5,02 June 2020,No,Yes,No,4,0,25-34,
+Positive,,,,Skin,700,4.817142857142857,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R691,3,30 May 2020,No,Yes,No,13,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R691,3,30 May 2020,No,Yes,No,13,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,36, very moisturizing,4,4,5.0,5.0,, combination,P4R693,5,29 May 2020,Yes,Yes,No,16,1,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, spot treatment for dry patches,P4R693,5,29 May 2020,Yes,Yes,No,16,1,,Blackheads
+Positive,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, absorbs quickly,P4R693,5,29 May 2020,Yes,Yes,No,16,1,,Blackheads
+Positive,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, switched to this to save money,P4R693,5,29 May 2020,Yes,Yes,No,16,1,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,35, very moisturizing,4,4,5.0,5.0,, combination,P4R693,5,29 May 2020,Yes,Yes,No,16,1,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, spot treatment for dry patches,P4R693,5,29 May 2020,Yes,Yes,No,16,1,,Blackheads
+Negative,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, absorbs quickly,P4R693,5,29 May 2020,Yes,Yes,No,16,1,,Blackheads
+Negative,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, switched to this to save money,P4R693,5,29 May 2020,Yes,Yes,No,16,1,,Blackheads
+Positive,,,,Texture,241,4.775933609958506,3, Very gentle,19,18,4.722222222222222,4.7368421052631575,, deeply combats,P4R694,5,29 May 2020,Yes,Yes,No,5,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,4, less redness,10,7,4.857142857142857,4.6,, feel quite like this,P4R694,5,29 May 2020,Yes,Yes,No,5,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,3, Very gentle,19,18,4.722222222222222,4.7368421052631575,, deeply combats,P4R694,5,29 May 2020,Yes,Yes,No,5,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,4, less redness,10,7,4.857142857142857,4.6,, feel quite like this,P4R694,5,29 May 2020,Yes,Yes,No,5,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,7, this brand is vegan AND cruelty free,11,11,4.909090909090909,4.909090909090909,, perioral dermatitis,P4R695,5,29 May 2020,No,Yes,Yes,3,1,45-54,Dullness
+Positive,,,,Sentiment,119,4.9411764705882355,5, combination acne prone skin,10,10,5.0,5.0,, holy grail,P4R695,5,29 May 2020,No,Yes,Yes,3,1,45-54,Dullness
+Positive,,,,Sentiment,119,4.9411764705882355,1, calm any redness,19,15,4.933333333333334,4.947368421052632,, creams by my dermatologist,P4R695,5,29 May 2020,No,Yes,Yes,3,1,45-54,Dullness
+Negative,,,,Skin,699,4.816881258941344,7, this brand is vegan AND cruelty free,11,11,4.909090909090909,4.909090909090909,, perioral dermatitis,P4R695,5,29 May 2020,No,Yes,Yes,3,1,45-54,Dullness
+Negative,,,,Sentiment,119,4.9411764705882355,5, combination acne prone skin,10,10,5.0,5.0,, holy grail,P4R695,5,29 May 2020,No,Yes,Yes,3,1,45-54,Dullness
+Negative,,,,Sentiment,119,4.9411764705882355,1, calm any redness,19,15,4.933333333333334,4.947368421052632,, creams by my dermatologist,P4R695,5,29 May 2020,No,Yes,Yes,3,1,45-54,Dullness
+Positive,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, dry skin,P4R696,4,27 May 2020,No,Yes,No,6,0,,Sensitivity
+Positive,,,,Application,74,4.797297297297297,3, absorbs very well,16,16,4.6875,4.6875,, my sunscreen moisturizer,P4R696,4,27 May 2020,No,Yes,No,6,0,,Sensitivity
+Positive,,,,Application,74,4.797297297297297,7, never caused an acne flare,5,5,4.8,4.8,,,P4R696,4,27 May 2020,No,Yes,No,6,0,,Sensitivity
+Positive,,,,Performance,76,4.921052631578948,4, Very gentle,10,10,4.7,4.7,, oes seem to hydrate well,P4R696,4,27 May 2020,No,Yes,No,6,0,,Sensitivity
+Negative,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, dry skin,P4R696,4,27 May 2020,No,Yes,No,6,0,,Sensitivity
+Negative,,,,Application,74,4.797297297297297,3, absorbs very well,16,16,4.6875,4.6875,, my sunscreen moisturizer,P4R696,4,27 May 2020,No,Yes,No,6,0,,Sensitivity
+Negative,,,,Application,74,4.797297297297297,7, never caused an acne flare,5,5,4.8,4.8,,,P4R696,4,27 May 2020,No,Yes,No,6,0,,Sensitivity
+Negative,,,,Performance,76,4.921052631578948,4, Very gentle,10,10,4.7,4.7,, oes seem to hydrate well,P4R696,4,27 May 2020,No,Yes,No,6,0,,Sensitivity
+Positive,,,,Skin,700,4.817142857142857,3, Read reviews on this product,24,23,4.869565217391305,4.875,, my dry skin,P4R697,5,27 May 2020,No,Yes,No,8,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,19, does NOT leave skin oily/greasy,16,13,4.6923076923076925,4.75,, less irritable,P4R697,5,27 May 2020,No,Yes,No,8,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,39, this one is PERFECTION,14,14,4.571428571428571,4.571428571428571,, sensitive,P4R697,5,27 May 2020,No,Yes,No,8,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, doesn’t make my skin feel oily at all,P4R697,5,27 May 2020,No,Yes,No,8,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,3, Read reviews on this product,24,23,4.869565217391305,4.875,, my dry skin,P4R697,5,27 May 2020,No,Yes,No,8,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,19, does NOT leave skin oily/greasy,16,13,4.6923076923076925,4.75,, less irritable,P4R697,5,27 May 2020,No,Yes,No,8,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,39, this one is PERFECTION,14,14,4.571428571428571,4.571428571428571,, sensitive,P4R697,5,27 May 2020,No,Yes,No,8,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, doesn’t make my skin feel oily at all,P4R697,5,27 May 2020,No,Yes,No,8,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, skin is very dry,P4R698,5,27 May 2020,No,Yes,No,16,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, skin is very dry,P4R698,5,27 May 2020,No,Yes,No,16,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, very think cream,P4R699,4,27 May 2020,Yes,Yes,No,5,1,,Acne
+Positive,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, completely get absorbed,P4R699,4,27 May 2020,Yes,Yes,No,5,1,,Acne
+Positive,,,,Odor,51,4.705882352941177,1, calm any redness,14,14,4.714285714285714,4.714285714285714,, subtle clean scent,P4R699,4,27 May 2020,Yes,Yes,No,5,1,,Acne
+Negative,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, very think cream,P4R699,4,27 May 2020,Yes,Yes,No,5,1,,Acne
+Negative,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, completely get absorbed,P4R699,4,27 May 2020,Yes,Yes,No,5,1,,Acne
+Negative,,,,Odor,51,4.705882352941177,1, calm any redness,14,14,4.714285714285714,4.714285714285714,, subtle clean scent,P4R699,4,27 May 2020,Yes,Yes,No,5,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, very dry skin,P4R700,5,25 May 2020,No,Yes,No,6,3,,Sensitivity
+Positive,,,,Skin,700,4.817142857142857,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, struggle with kp,P4R700,5,25 May 2020,No,Yes,No,6,3,,Sensitivity
+Positive,,,,Application,74,4.797297297297297,4, recommend trying this product,20,20,4.7,4.7,, drunken elephant moisturizer,P4R700,5,25 May 2020,No,Yes,No,6,3,,Sensitivity
+Positive,,,,Application,74,4.797297297297297,3, absorbs very well,16,16,4.6875,4.6875,, face oil,P4R700,5,25 May 2020,No,Yes,No,6,3,,Sensitivity
+Negative,,,,Skin,699,4.816881258941344,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, very dry skin,P4R700,5,25 May 2020,No,Yes,No,6,3,,Sensitivity
+Negative,,,,Skin,699,4.816881258941344,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, struggle with kp,P4R700,5,25 May 2020,No,Yes,No,6,3,,Sensitivity
+Negative,,,,Application,74,4.797297297297297,4, recommend trying this product,20,20,4.7,4.7,, drunken elephant moisturizer,P4R700,5,25 May 2020,No,Yes,No,6,3,,Sensitivity
+Negative,,,,Application,74,4.797297297297297,3, absorbs very well,16,16,4.6875,4.6875,, face oil,P4R700,5,25 May 2020,No,Yes,No,6,3,,Sensitivity
+Positive,,,,Skin,700,4.817142857142857,12, because I started watching a lot of skincare,11,11,5.0,5.0,, my hands were cracked and dry,P4R701,5,23 May 2020,No,Yes,No,1,1,,Aging
+Positive,,,,Texture,241,4.775933609958506,23, recommend trying this product,17,17,4.882352941176471,4.882352941176471,, skin is soft and smooth,P4R701,5,23 May 2020,No,Yes,No,1,1,,Aging
+Negative,,,,Skin,699,4.816881258941344,12, because I started watching a lot of skincare,11,11,5.0,5.0,, my hands were cracked and dry,P4R701,5,23 May 2020,No,Yes,No,1,1,,Aging
+Negative,,,,Texture,241,4.775933609958506,23, recommend trying this product,17,17,4.882352941176471,4.882352941176471,, skin is soft and smooth,P4R701,5,23 May 2020,No,Yes,No,1,1,,Aging
+Positive,,,,Skin,700,4.817142857142857,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, keeps my eczema at bay,P4R702,5,22 May 2020,No,Yes,Yes,6,0,18-24,
+Positive,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, Thanks for having my back,P4R702,5,22 May 2020,No,Yes,Yes,6,0,18-24,
+Positive,,,,Brand,34,4.764705882352941,1, very dry T-Zone quickly,7,7,5.0,5.0,, First Aid!,P4R702,5,22 May 2020,No,Yes,Yes,6,0,18-24,
+Negative,,,,Skin,699,4.816881258941344,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, keeps my eczema at bay,P4R702,5,22 May 2020,No,Yes,Yes,6,0,18-24,
+Negative,,,,Brand,34,4.764705882352941,0, Very gentle,27,23,4.695652173913044,4.703703703703703,, Thanks for having my back,P4R702,5,22 May 2020,No,Yes,Yes,6,0,18-24,
+Negative,,,,Brand,34,4.764705882352941,1, very dry T-Zone quickly,7,7,5.0,5.0,, First Aid!,P4R702,5,22 May 2020,No,Yes,Yes,6,0,18-24,
+Positive,,,,Skin,700,4.817142857142857,14, Age is [35],12,11,4.7272727272727275,4.5,, super dry skin,P4R704,2,22 May 2020,No,No,No,8,27,25-34,
+Negative,,,,Skin,699,4.816881258941344,14, Age is [35],12,11,4.7272727272727275,4.5,, super dry skin,P4R704,2,22 May 2020,No,No,No,8,27,25-34,
+Positive,,,,Motivation,75,4.386666666666667,3, calm any redness,11,8,4.5,4.636363636363637,, I got a sample of this to start,P4R705,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Positive,,,,Sentiment,119,4.9411764705882355,1, calm any redness,19,15,4.933333333333334,4.947368421052632,, best face/body cream,P4R705,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Positive,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, drinks it in without being greasy,P4R705,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Positive,,,,Texture,241,4.775933609958506,19, dark acne scars,30,27,4.925925925925926,4.933333333333334,, not be greasy,P4R705,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Positive,,,,Demographic,54,4.962962962962963,3, Very gentle,16,15,4.933333333333334,4.9375,, use it on my face(dry),P4R705,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Positive,,,,Allergy,44,4.840909090909091,2, calm any redness,6,5,5.0,5.0,, not end up with breakouts on my face,P4R705,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Negative,,,,Motivation,75,4.386666666666667,3, calm any redness,11,8,4.5,4.636363636363637,, I got a sample of this to start,P4R705,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Negative,,,,Sentiment,119,4.9411764705882355,1, calm any redness,19,15,4.933333333333334,4.947368421052632,, best face/body cream,P4R705,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Negative,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, drinks it in without being greasy,P4R705,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Negative,,,,Texture,241,4.775933609958506,19, dark acne scars,30,27,4.925925925925926,4.933333333333334,, not be greasy,P4R705,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Negative,,,,Demographic,54,4.962962962962963,3, Very gentle,16,15,4.933333333333334,4.9375,, use it on my face(dry),P4R705,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Negative,,,,Allergy,44,4.840909090909091,2, calm any redness,6,5,5.0,5.0,, not end up with breakouts on my face,P4R705,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Positive,,,,Motivation,75,4.386666666666667,3, calm any redness,11,8,4.5,4.636363636363637,, I got a sample of this to start,P4R706,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Positive,,,,Sentiment,119,4.9411764705882355,1, calm any redness,19,15,4.933333333333334,4.947368421052632,, best face/body cream,P4R706,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Positive,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, drinks it in without being greasy,P4R706,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Positive,,,,Texture,241,4.775933609958506,19, dark acne scars,30,27,4.925925925925926,4.933333333333334,, not be greasy,P4R706,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Positive,,,,Skin,700,4.817142857142857,5, redness gone,43,41,4.634146341463414,4.651162790697675,, amazing how it can moisturize all of me,P4R706,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Negative,,,,Motivation,75,4.386666666666667,3, calm any redness,11,8,4.5,4.636363636363637,, I got a sample of this to start,P4R706,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Negative,,,,Sentiment,119,4.9411764705882355,1, calm any redness,19,15,4.933333333333334,4.947368421052632,, best face/body cream,P4R706,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Negative,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, drinks it in without being greasy,P4R706,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Negative,,,,Texture,241,4.775933609958506,19, dark acne scars,30,27,4.925925925925926,4.933333333333334,, not be greasy,P4R706,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Negative,,,,Skin,699,4.816881258941344,5, redness gone,43,41,4.634146341463414,4.651162790697675,, amazing how it can moisturize all of me,P4R706,5,21 May 2020,No,Yes,Yes,8,2,,Aging
+Positive,,,,Skin,700,4.817142857142857,17, skill looks more hydrated,31,26,4.961538461538462,4.967741935483871,, dry,P4R707,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Positive,,,,Skin,700,4.817142857142857,29, Tub size is quite large,7,4,5.0,5.0,, red,P4R707,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, sensitive skin,P4R707,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Positive,,,,Texture,241,4.775933609958506,2, absorbs it immediately,14,12,4.833333333333333,4.857142857142857,, rich but not so that it would clog my pores,P4R707,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Positive,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, love that it has clean ingredients,P4R707,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Negative,,,,Skin,699,4.816881258941344,17, skill looks more hydrated,31,26,4.961538461538462,4.967741935483871,, dry,P4R707,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Negative,,,,Skin,699,4.816881258941344,29, Tub size is quite large,7,4,5.0,5.0,, red,P4R707,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, sensitive skin,P4R707,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Negative,,,,Texture,241,4.775933609958506,2, absorbs it immediately,14,12,4.833333333333333,4.857142857142857,, rich but not so that it would clog my pores,P4R707,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Negative,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, love that it has clean ingredients,P4R707,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Positive,,,,Skin,700,4.817142857142857,17, skill looks more hydrated,31,26,4.961538461538462,4.967741935483871,, ery dry,P4R708,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Positive,,,,Skin,700,4.817142857142857,29, Tub size is quite large,7,4,5.0,5.0,, red,P4R708,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, and sensitive skin,P4R708,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Positive,,,,Texture,241,4.775933609958506,22, husband,4,3,5.0,5.0,, osh that it would clog my pores,P4R708,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Positive,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, love that it has clean ingredients,P4R708,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Negative,,,,Skin,699,4.816881258941344,17, skill looks more hydrated,31,26,4.961538461538462,4.967741935483871,, ery dry,P4R708,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Negative,,,,Skin,699,4.816881258941344,29, Tub size is quite large,7,4,5.0,5.0,, red,P4R708,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, and sensitive skin,P4R708,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Negative,,,,Texture,241,4.775933609958506,22, husband,4,3,5.0,5.0,, osh that it would clog my pores,P4R708,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Negative,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, love that it has clean ingredients,P4R708,5,21 May 2020,Yes,Yes,No,7,2,,Acne
+Positive,,,,Texture,241,4.775933609958506,23, recommend trying this product,17,17,4.882352941176471,4.882352941176471,, skin looks so plump,P4R709,5,20 May 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,23, recommend trying this product,17,17,4.882352941176471,4.882352941176471,, skin looks so plump,P4R709,5,20 May 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,5, redness gone,43,41,4.634146341463414,4.651162790697675,, my favorite moisturizer of all time,P4R710,5,20 May 2020,No,Yes,No,5,1,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,9, soaks well,43,41,4.804878048780488,4.813953488372093,, literally changes your skin overnight,P4R710,5,20 May 2020,No,Yes,No,5,1,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,5, redness gone,43,41,4.634146341463414,4.651162790697675,, my favorite moisturizer of all time,P4R710,5,20 May 2020,No,Yes,No,5,1,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,9, soaks well,43,41,4.804878048780488,4.813953488372093,, literally changes your skin overnight,P4R710,5,20 May 2020,No,Yes,No,5,1,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, very dry and dehydrated skin,P4R711,5,20 May 2020,No,Yes,No,9,0,,Dullness
+Positive,,,,Skin,700,4.817142857142857,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, now after a week the dry patches are totally gone,P4R711,5,20 May 2020,No,Yes,No,9,0,,Dullness
+Negative,,,,Skin,699,4.816881258941344,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, very dry and dehydrated skin,P4R711,5,20 May 2020,No,Yes,No,9,0,,Dullness
+Negative,,,,Skin,699,4.816881258941344,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, now after a week the dry patches are totally gone,P4R711,5,20 May 2020,No,Yes,No,9,0,,Dullness
+Positive,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, Its a really good thick cream,P4R715,5,17 May 2020,No,Yes,No,4,0,,Acne
+Positive,,,,Allergy,44,4.840909090909091,1, absorbs very well,15,15,4.733333333333333,4.733333333333333,, didn’t break me out personally,P4R715,5,17 May 2020,No,Yes,No,4,0,,Acne
+Positive,,,,Purchase,46,4.934782608695652,3, dark acne scars,4,4,5.0,5.0,, and will be repurchasing,P4R715,5,17 May 2020,No,Yes,No,4,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, Its a really good thick cream,P4R715,5,17 May 2020,No,Yes,No,4,0,,Acne
+Negative,,,,Allergy,44,4.840909090909091,1, absorbs very well,15,15,4.733333333333333,4.733333333333333,, didn’t break me out personally,P4R715,5,17 May 2020,No,Yes,No,4,0,,Acne
+Negative,,,,Purchase,46,4.934782608695652,3, dark acne scars,4,4,5.0,5.0,, and will be repurchasing,P4R715,5,17 May 2020,No,Yes,No,4,0,,Acne
+Positive,,,,Motivation,75,4.386666666666667,1, very dry T-Zone quickly,19,19,4.421052631578948,4.421052631578948,, limited edition size Spring sale,P4R716,4,17 May 2020,Yes,Yes,No,12,0,,Acne
+Positive,,,,Motivation,75,4.386666666666667,0, very dry T-Zone quickly,13,10,3.8,3.8461538461538463,, great reviews,P4R716,4,17 May 2020,Yes,Yes,No,12,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,6, Very gentle,22,22,4.818181818181818,4.818181818181818,, fair skin,P4R716,4,17 May 2020,Yes,Yes,No,12,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, plumping my fine lines,P4R716,4,17 May 2020,Yes,Yes,No,12,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, sensitive skin,P4R716,4,17 May 2020,Yes,Yes,No,12,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,7, fungal acne,11,11,4.818181818181818,4.818181818181818,, found it soothing,P4R716,4,17 May 2020,Yes,Yes,No,12,0,,Acne
+Negative,,,,Motivation,75,4.386666666666667,1, very dry T-Zone quickly,19,19,4.421052631578948,4.421052631578948,, limited edition size Spring sale,P4R716,4,17 May 2020,Yes,Yes,No,12,0,,Acne
+Negative,,,,Motivation,75,4.386666666666667,0, very dry T-Zone quickly,13,10,3.8,3.8461538461538463,, great reviews,P4R716,4,17 May 2020,Yes,Yes,No,12,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,6, Very gentle,22,22,4.818181818181818,4.818181818181818,, fair skin,P4R716,4,17 May 2020,Yes,Yes,No,12,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, plumping my fine lines,P4R716,4,17 May 2020,Yes,Yes,No,12,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, sensitive skin,P4R716,4,17 May 2020,Yes,Yes,No,12,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,7, fungal acne,11,11,4.818181818181818,4.818181818181818,, found it soothing,P4R716,4,17 May 2020,Yes,Yes,No,12,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,23, very dry T-Zone quickly,24,24,4.875,4.875,, acne prone,P4R719,5,16 May 2020,No,Yes,No,2,1,,Acne
+Positive,,,,Application,74,4.797297297297297,1, very dry T-Zone quickly,13,13,4.6923076923076925,4.6923076923076925,, combination with my acne products,P4R719,5,16 May 2020,No,Yes,No,2,1,,Acne
+Positive,,,,Texture,241,4.775933609958506,1, Very gentle,20,17,4.9411764705882355,4.95,, doesn’t feel oily or greasy,P4R719,5,16 May 2020,No,Yes,No,2,1,,Acne
+Positive,,,,Purchase,46,4.934782608695652,1, very dry T-Zone quickly,26,24,4.916666666666667,4.923076923076923,, Definitely worth purchasing.,P4R719,5,16 May 2020,No,Yes,No,2,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,23, very dry T-Zone quickly,24,24,4.875,4.875,, acne prone,P4R719,5,16 May 2020,No,Yes,No,2,1,,Acne
+Negative,,,,Application,74,4.797297297297297,1, very dry T-Zone quickly,13,13,4.6923076923076925,4.6923076923076925,, combination with my acne products,P4R719,5,16 May 2020,No,Yes,No,2,1,,Acne
+Negative,,,,Texture,241,4.775933609958506,1, Very gentle,20,17,4.9411764705882355,4.95,, doesn’t feel oily or greasy,P4R719,5,16 May 2020,No,Yes,No,2,1,,Acne
+Negative,,,,Purchase,46,4.934782608695652,1, very dry T-Zone quickly,26,24,4.916666666666667,4.923076923076923,, Definitely worth purchasing.,P4R719,5,16 May 2020,No,Yes,No,2,1,,Acne
+Positive,,,,Demographic,54,4.962962962962963,2, very dry T-Zone quickly,13,13,5.0,5.0,, I’m white,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Demographic,54,4.962962962962963,4, combination acne prone skin,5,5,5.0,5.0,,,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Purchase,46,4.934782608695652,2, Very gentle,16,16,4.9375,4.9375,, bought my fifth 6.0 oz tub,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,23, recommend trying this product,17,17,4.882352941176471,4.882352941176471,, feels clean on my skin,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, absorbs quickly,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, Sephora the price is reasonable,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Packaging,52,4.788461538461538,3, dark acne scars,12,12,4.916666666666667,4.916666666666667,, 6 oz lasts me six months,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Demographic,54,4.962962962962963,2, very dry T-Zone quickly,13,13,5.0,5.0,, I’m white,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Demographic,54,4.962962962962963,4, combination acne prone skin,5,5,5.0,5.0,,,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Purchase,46,4.934782608695652,2, Very gentle,16,16,4.9375,4.9375,, bought my fifth 6.0 oz tub,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,23, recommend trying this product,17,17,4.882352941176471,4.882352941176471,, feels clean on my skin,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,9, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, absorbs quickly,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, Sephora the price is reasonable,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Packaging,52,4.788461538461538,3, dark acne scars,12,12,4.916666666666667,4.916666666666667,, 6 oz lasts me six months,P4R720,5,16 May 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,19, dark acne scars,30,27,4.925925925925926,4.933333333333334,, not greasy,P4R721,4,15 May 2020,No,No,Yes,5,0,,Acne
+Positive,,,,Application,74,4.797297297297297,2, calm any redness,13,12,4.75,4.769230769230769,, Makeup sat really nicely on top of it,P4R721,4,15 May 2020,No,No,Yes,5,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,19, dark acne scars,30,27,4.925925925925926,4.933333333333334,, not greasy,P4R721,4,15 May 2020,No,No,Yes,5,0,,Acne
+Negative,,,,Application,74,4.797297297297297,2, calm any redness,13,12,4.75,4.769230769230769,, Makeup sat really nicely on top of it,P4R721,4,15 May 2020,No,No,Yes,5,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,19, dark acne scars,30,27,4.925925925925926,4.933333333333334,, not greasy,P4R723,5,12 May 2020,No,Yes,No,7,5,,
+Positive,,,,Application,74,4.797297297297297,0, Very gentle,16,15,4.866666666666666,4.8125,, my face,P4R723,5,12 May 2020,No,Yes,No,7,5,,
+Positive,,,,Application,74,4.797297297297297,5, absorbs very well,6,5,4.8,4.666666666666667,, hands,P4R723,5,12 May 2020,No,Yes,No,7,5,,
+Positive,,,,Application,74,4.797297297297297,4, recommend trying this product,20,20,4.7,4.7,, knees and elbows,P4R723,5,12 May 2020,No,Yes,No,7,5,,
+Positive,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, good price for the amount,P4R723,5,12 May 2020,No,Yes,No,7,5,,
+Negative,,,,Texture,241,4.775933609958506,19, dark acne scars,30,27,4.925925925925926,4.933333333333334,, not greasy,P4R723,5,12 May 2020,No,Yes,No,7,5,,
+Negative,,,,Application,74,4.797297297297297,0, Very gentle,16,15,4.866666666666666,4.8125,, my face,P4R723,5,12 May 2020,No,Yes,No,7,5,,
+Negative,,,,Application,74,4.797297297297297,5, absorbs very well,6,5,4.8,4.666666666666667,, hands,P4R723,5,12 May 2020,No,Yes,No,7,5,,
+Negative,,,,Application,74,4.797297297297297,4, recommend trying this product,20,20,4.7,4.7,, knees and elbows,P4R723,5,12 May 2020,No,Yes,No,7,5,,
+Negative,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, good price for the amount,P4R723,5,12 May 2020,No,Yes,No,7,5,,
+Positive,,,,Application,74,4.797297297297297,4, recommend trying this product,20,20,4.7,4.7,, Drunk Elephant’s hydration,P4R724,5,12 May 2020,No,Yes,No,39,1,,Aging
+Positive,,,,Packaging,52,4.788461538461538,4, never caused an acne flare,7,7,5.0,5.0,, also is huge so will last a long time,P4R724,5,12 May 2020,No,Yes,No,39,1,,Aging
+Positive,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, ot insanely expensive,P4R724,5,12 May 2020,No,Yes,No,39,1,,Aging
+Negative,,,,Application,74,4.797297297297297,4, recommend trying this product,20,20,4.7,4.7,, Drunk Elephant’s hydration,P4R724,5,12 May 2020,No,Yes,No,39,1,,Aging
+Negative,,,,Packaging,52,4.788461538461538,4, never caused an acne flare,7,7,5.0,5.0,, also is huge so will last a long time,P4R724,5,12 May 2020,No,Yes,No,39,1,,Aging
+Negative,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, ot insanely expensive,P4R724,5,12 May 2020,No,Yes,No,39,1,,Aging
+Positive,,,,Application,74,4.797297297297297,9, Very gentle,21,19,4.7894736842105265,4.809523809523809,, my go to when it’s cold,P4R725,5,12 May 2020,No,Yes,No,7,2,,
+Positive,,,,Skin,700,4.817142857142857,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, skin is dry,P4R725,5,12 May 2020,No,Yes,No,7,2,,
+Positive,,,,Skin,700,4.817142857142857,39, this one is PERFECTION,14,14,4.571428571428571,4.571428571428571,, sensitive,P4R725,5,12 May 2020,No,Yes,No,7,2,,
+Positive,,,,Skin,700,4.817142857142857,30, combination skin,15,15,4.733333333333333,4.733333333333333,, with a little rosacea,P4R725,5,12 May 2020,No,Yes,No,7,2,,
+Negative,,,,Application,74,4.797297297297297,9, Very gentle,21,19,4.7894736842105265,4.809523809523809,, my go to when it’s cold,P4R725,5,12 May 2020,No,Yes,No,7,2,,
+Negative,,,,Skin,699,4.816881258941344,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, skin is dry,P4R725,5,12 May 2020,No,Yes,No,7,2,,
+Negative,,,,Skin,699,4.816881258941344,39, this one is PERFECTION,14,14,4.571428571428571,4.571428571428571,, sensitive,P4R725,5,12 May 2020,No,Yes,No,7,2,,
+Positive,,,,Demographic,54,4.962962962962963,8, recommend trying this product,7,6,4.833333333333333,4.857142857142857,, northern Nevada,P4R726,5,10 May 2020,No,Yes,Yes,4,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,0, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, extra dry lately,P4R726,5,10 May 2020,No,Yes,Yes,4,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, dry flakey patches on my chin and cheeks,P4R726,5,10 May 2020,No,Yes,Yes,4,0,,Acne
+Positive,,,,Ingredients,12,4.833333333333333,0, very dry T-Zone quickly,12,9,4.888888888888889,4.833333333333333,, love the colloidal oatmeal,P4R726,5,10 May 2020,No,Yes,Yes,4,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,15, fungal acne,10,10,4.6,4.6,, face feel velvety soft,P4R726,5,10 May 2020,No,Yes,Yes,4,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,19, dark acne scars,30,27,4.925925925925926,4.933333333333334,, Not greasy,P4R726,5,10 May 2020,No,Yes,Yes,4,0,,Acne
+Negative,,,,Demographic,54,4.962962962962963,8, recommend trying this product,7,6,4.833333333333333,4.857142857142857,, northern Nevada,P4R726,5,10 May 2020,No,Yes,Yes,4,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,0, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, extra dry lately,P4R726,5,10 May 2020,No,Yes,Yes,4,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, dry flakey patches on my chin and cheeks,P4R726,5,10 May 2020,No,Yes,Yes,4,0,,Acne
+Negative,,,,Ingredients,12,4.833333333333333,0, very dry T-Zone quickly,12,9,4.888888888888889,4.833333333333333,, love the colloidal oatmeal,P4R726,5,10 May 2020,No,Yes,Yes,4,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,15, fungal acne,10,10,4.6,4.6,, face feel velvety soft,P4R726,5,10 May 2020,No,Yes,Yes,4,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,19, dark acne scars,30,27,4.925925925925926,4.933333333333334,, Not greasy,P4R726,5,10 May 2020,No,Yes,Yes,4,0,,Acne
+Positive,,,,Motivation,75,4.386666666666667,1, very dry T-Zone quickly,19,19,4.421052631578948,4.421052631578948,, Spring Sale,P4R727,5,10 May 2020,Yes,Yes,No,13,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,11, combination acne prone skin,22,20,4.7,4.7272727272727275,, very thick,P4R727,5,10 May 2020,Yes,Yes,No,13,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,4, less redness,10,7,4.857142857142857,4.6,, feels like water,P4R727,5,10 May 2020,Yes,Yes,No,13,0,,Acne
+Positive,,,,Application,74,4.797297297297297,2, calm any redness,13,12,4.75,4.769230769230769,, look good under makeup,P4R727,5,10 May 2020,Yes,Yes,No,13,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,5, redness gone,43,41,4.634146341463414,4.651162790697675,, kept my dry patches moisturized,P4R727,5,10 May 2020,Yes,Yes,No,13,0,,Acne
+Negative,,,,Motivation,75,4.386666666666667,1, very dry T-Zone quickly,19,19,4.421052631578948,4.421052631578948,, Spring Sale,P4R727,5,10 May 2020,Yes,Yes,No,13,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,11, combination acne prone skin,22,20,4.7,4.7272727272727275,, very thick,P4R727,5,10 May 2020,Yes,Yes,No,13,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,4, less redness,10,7,4.857142857142857,4.6,, feels like water,P4R727,5,10 May 2020,Yes,Yes,No,13,0,,Acne
+Negative,,,,Application,74,4.797297297297297,2, calm any redness,13,12,4.75,4.769230769230769,, look good under makeup,P4R727,5,10 May 2020,Yes,Yes,No,13,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,5, redness gone,43,41,4.634146341463414,4.651162790697675,, kept my dry patches moisturized,P4R727,5,10 May 2020,Yes,Yes,No,13,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, crazy dry skin,P4R728,5,09 May 2020,Yes,Yes,No,3,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,36, very moisturizing,4,4,5.0,5.0,, combination,P4R728,5,09 May 2020,Yes,Yes,No,3,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,17, skill looks more hydrated,31,26,4.961538461538462,4.967741935483871,, mostly dry,P4R728,5,09 May 2020,Yes,Yes,No,3,0,,Acne
+Positive,,,,Application,74,4.797297297297297,9, Very gentle,21,19,4.7894736842105265,4.809523809523809,, goes well under my primer,P4R728,5,09 May 2020,Yes,Yes,No,3,0,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,3, Very gentle,18,18,5.0,5.0,, very happy with this,P4R728,5,09 May 2020,Yes,Yes,No,3,0,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,7, dark acne scars,13,13,4.846153846153846,4.846153846153846,, will recommend it to most anyone,P4R728,5,09 May 2020,Yes,Yes,No,3,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, crazy dry skin,P4R728,5,09 May 2020,Yes,Yes,No,3,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,35, very moisturizing,4,4,5.0,5.0,, combination,P4R728,5,09 May 2020,Yes,Yes,No,3,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,17, skill looks more hydrated,31,26,4.961538461538462,4.967741935483871,, mostly dry,P4R728,5,09 May 2020,Yes,Yes,No,3,0,,Acne
+Negative,,,,Application,74,4.797297297297297,9, Very gentle,21,19,4.7894736842105265,4.809523809523809,, goes well under my primer,P4R728,5,09 May 2020,Yes,Yes,No,3,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,3, Very gentle,18,18,5.0,5.0,, very happy with this,P4R728,5,09 May 2020,Yes,Yes,No,3,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,7, dark acne scars,13,13,4.846153846153846,4.846153846153846,, will recommend it to most anyone,P4R728,5,09 May 2020,Yes,Yes,No,3,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, dry skin,P4R729,5,08 May 2020,No,Yes,No,12,2,,Acne
+Positive,,,,Skin,700,4.817142857142857,0, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, no dryness at all,P4R729,5,08 May 2020,No,Yes,No,12,2,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,4, redness gone,13,13,5.0,5.0,, best moisturizer I’ve ever used,P4R729,5,08 May 2020,No,Yes,No,12,2,,Acne
+Negative,,,,Skin,699,4.816881258941344,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, dry skin,P4R729,5,08 May 2020,No,Yes,No,12,2,,Acne
+Negative,,,,Skin,699,4.816881258941344,0, very dry T-Zone quickly,22,22,4.863636363636363,4.863636363636363,, no dryness at all,P4R729,5,08 May 2020,No,Yes,No,12,2,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,4, redness gone,13,13,5.0,5.0,, best moisturizer I’ve ever used,P4R729,5,08 May 2020,No,Yes,No,12,2,,Acne
+Positive,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, purchased a mini size of this cream with some points,P4R730,4,07 May 2020,No,Yes,No,18,1,,Cellulite
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, redness is almost gone,P4R730,4,07 May 2020,No,Yes,No,18,1,,Cellulite
+Negative,,,,Motivation,75,4.386666666666667,4, Very gentle,17,17,4.823529411764706,4.823529411764706,, purchased a mini size of this cream with some points,P4R730,4,07 May 2020,No,Yes,No,18,1,,Cellulite
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, redness is almost gone,P4R730,4,07 May 2020,No,Yes,No,18,1,,Cellulite
+Positive,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, This $30 cream was half the price,P4R731,5,06 May 2020,No,Yes,No,10,0,25-34,Redness
+Positive,,,,Motivation,75,4.386666666666667,0, very dry T-Zone quickly,13,10,3.8,3.8461538461538463,, better reviews,P4R731,5,06 May 2020,No,Yes,No,10,0,25-34,Redness
+Positive,,,,Skin,700,4.817142857142857,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, dry patches have disappeared,P4R731,5,06 May 2020,No,Yes,No,10,0,25-34,Redness
+Positive,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, doesn't have a scent,P4R731,5,06 May 2020,No,Yes,No,10,0,25-34,Redness
+Negative,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, This $30 cream was half the price,P4R731,5,06 May 2020,No,Yes,No,10,0,25-34,Redness
+Negative,,,,Motivation,75,4.386666666666667,0, very dry T-Zone quickly,13,10,3.8,3.8461538461538463,, better reviews,P4R731,5,06 May 2020,No,Yes,No,10,0,25-34,Redness
+Negative,,,,Skin,699,4.816881258941344,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, dry patches have disappeared,P4R731,5,06 May 2020,No,Yes,No,10,0,25-34,Redness
+Negative,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, doesn't have a scent,P4R731,5,06 May 2020,No,Yes,No,10,0,25-34,Redness
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, most sensitive skin i,P4R732,5,06 May 2020,Yes,Yes,No,2,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,5, redness gone,43,41,4.634146341463414,4.651162790697675,, so moisturizing,P4R732,5,06 May 2020,Yes,Yes,No,2,1,,Acne
+Positive,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, price is amazing.,P4R732,5,06 May 2020,Yes,Yes,No,2,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, most sensitive skin i,P4R732,5,06 May 2020,Yes,Yes,No,2,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,5, redness gone,43,41,4.634146341463414,4.651162790697675,, so moisturizing,P4R732,5,06 May 2020,Yes,Yes,No,2,1,,Acne
+Negative,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, price is amazing.,P4R732,5,06 May 2020,Yes,Yes,No,2,1,,Acne
+Positive,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, doesn’t have a smell,P4R733,4,06 May 2020,No,Yes,No,2,2,,Blackheads
+Positive,,,,Performance,76,4.921052631578948,1, combination acne prone skin,28,23,4.956521739130435,4.964285714285714,, does stabilize my skin,P4R733,4,06 May 2020,No,Yes,No,2,2,,Blackheads
+Negative,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, doesn’t have a smell,P4R733,4,06 May 2020,No,Yes,No,2,2,,Blackheads
+Negative,,,,Performance,76,4.921052631578948,1, combination acne prone skin,28,23,4.956521739130435,4.964285714285714,, does stabilize my skin,P4R733,4,06 May 2020,No,Yes,No,2,2,,Blackheads
+Positive,,,,Application,74,4.797297297297297,9, Very gentle,21,19,4.7894736842105265,4.809523809523809,, couple of the minis that I use,P4R734,5,01 May 2020,No,Yes,No,2,0,,Acne
+Negative,,,,Application,74,4.797297297297297,9, Very gentle,21,19,4.7894736842105265,4.809523809523809,, couple of the minis that I use,P4R734,5,01 May 2020,No,Yes,No,2,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, super hydrating,P4R735,5,01 May 2020,No,Yes,No,12,0,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, so much with the redness,P4R735,5,01 May 2020,No,Yes,No,12,0,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,30, combination skin,15,15,4.733333333333333,4.733333333333333,, Recommend for rosacea,P4R735,5,01 May 2020,No,Yes,No,12,0,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, super hydrating,P4R735,5,01 May 2020,No,Yes,No,12,0,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, so much with the redness,P4R735,5,01 May 2020,No,Yes,No,12,0,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,30, combination skin,14,14,4.714285714285714,4.714285714285714,, Recommend for rosacea,P4R735,5,01 May 2020,No,Yes,No,12,0,,Blackheads
+Positive,,,,Performance,76,4.921052631578948,0, calm any redness,31,26,4.961538461538462,4.935483870967742,, elbows are perpetually dry and cracked,P4R736,5,01 May 2020,No,Yes,No,4,0,,Acne
+Positive,,,,Motivation,75,4.386666666666667,2, dark acne scars,22,22,4.318181818181818,4.318181818181818,, got this with my points,P4R736,5,01 May 2020,No,Yes,No,4,0,,Acne
+Negative,,,,Performance,76,4.921052631578948,0, calm any redness,31,26,4.961538461538462,4.935483870967742,, elbows are perpetually dry and cracked,P4R736,5,01 May 2020,No,Yes,No,4,0,,Acne
+Negative,,,,Motivation,75,4.386666666666667,2, dark acne scars,22,22,4.318181818181818,4.318181818181818,, got this with my points,P4R736,5,01 May 2020,No,Yes,No,4,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, sensitive skin,P4R739,5,30 April 2020,No,Yes,No,7,0,,
+Positive,,,,Skin,700,4.817142857142857,2, pcos so,29,29,4.896551724137931,4.896551724137931,, skin hydrated,P4R739,5,30 April 2020,No,Yes,No,7,0,,
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, sensitive skin,P4R739,5,30 April 2020,No,Yes,No,7,0,,
+Negative,,,,Skin,699,4.816881258941344,2, pcos so,29,29,4.896551724137931,4.896551724137931,, skin hydrated,P4R739,5,30 April 2020,No,Yes,No,7,0,,
+Positive,,,,Sentiment,119,4.9411764705882355,6, Thank you First Aid Beauty!!,3,3,5.0,5.0,, Thank you so much First Aid Beauty.,P4R740,5,30 April 2020,No,Yes,No,17,1,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,6, Thank you First Aid Beauty!!,3,3,5.0,5.0,, Thank you so much First Aid Beauty.,P4R740,5,30 April 2020,No,Yes,No,17,1,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,3, Very gentle,18,18,5.0,5.0,, saw the great reviews on this,P4R741,5,29 April 2020,Yes,Yes,No,16,4,,Redness
+Positive,,,,Price,84,4.928571428571429,3, very dry T-Zone quickly,14,14,5.0,5.0,, worth every penny.,P4R741,5,29 April 2020,Yes,Yes,No,16,4,,Redness
+Positive,,,,Purchase,46,4.934782608695652,0, very dry T-Zone quickly,19,16,4.9375,4.947368421052632,, will be stocking up,P4R741,5,29 April 2020,Yes,Yes,No,16,4,,Redness
+Negative,,,,Sentiment,119,4.9411764705882355,3, Very gentle,18,18,5.0,5.0,, saw the great reviews on this,P4R741,5,29 April 2020,Yes,Yes,No,16,4,,Redness
+Negative,,,,Price,84,4.928571428571429,3, very dry T-Zone quickly,14,14,5.0,5.0,, worth every penny.,P4R741,5,29 April 2020,Yes,Yes,No,16,4,,Redness
+Negative,,,,Purchase,46,4.934782608695652,0, very dry T-Zone quickly,19,16,4.9375,4.947368421052632,, will be stocking up,P4R741,5,29 April 2020,Yes,Yes,No,16,4,,Redness
+Positive,,,,Texture,241,4.775933609958506,22, husband,4,3,5.0,5.0,, does not clog my pores,P4R742,5,29 April 2020,No,Yes,No,2,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, make my face over oily,P4R742,5,29 April 2020,No,Yes,No,2,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,22, husband,4,3,5.0,5.0,, does not clog my pores,P4R742,5,29 April 2020,No,Yes,No,2,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, make my face over oily,P4R742,5,29 April 2020,No,Yes,No,2,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,11, combination acne prone skin,22,20,4.7,4.7272727272727275,, thick,P4R743,4,29 April 2020,No,Yes,No,2,1,,Dark Circles
+Positive,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, heavy and creamy texture,P4R743,4,29 April 2020,No,Yes,No,2,1,,Dark Circles
+Negative,,,,Texture,241,4.775933609958506,11, combination acne prone skin,22,20,4.7,4.7272727272727275,, thick,P4R743,4,29 April 2020,No,Yes,No,2,1,,Dark Circles
+Negative,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, heavy and creamy texture,P4R743,4,29 April 2020,No,Yes,No,2,1,,Dark Circles
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, Wonderful hydrating,P4R744,4,29 April 2020,No,Yes,Yes,5,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, dry spot,P4R744,4,29 April 2020,No,Yes,Yes,5,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, Wonderful hydrating,P4R744,4,29 April 2020,No,Yes,Yes,5,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, dry spot,P4R744,4,29 April 2020,No,Yes,Yes,5,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,2, pcos so,29,29,4.896551724137931,4.896551724137931,, absolutely a skin thirst quenching,P4R745,5,29 April 2020,No,Yes,No,1,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, terribly dry skin,P4R745,5,29 April 2020,No,Yes,No,1,0,,Aging
+Positive,,,,Sentiment,119,4.9411764705882355,2, very dry T-Zone quickly,25,24,5.0,5.0,, Worked for me from day one.,P4R745,5,29 April 2020,No,Yes,No,1,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,2, pcos so,29,29,4.896551724137931,4.896551724137931,, absolutely a skin thirst quenching,P4R745,5,29 April 2020,No,Yes,No,1,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, terribly dry skin,P4R745,5,29 April 2020,No,Yes,No,1,0,,Aging
+Negative,,,,Sentiment,119,4.9411764705882355,2, very dry T-Zone quickly,25,24,5.0,5.0,, Worked for me from day one.,P4R745,5,29 April 2020,No,Yes,No,1,0,,Aging
+Positive,,,,Sentiment,119,4.9411764705882355,4, redness gone,13,13,5.0,5.0,, love this moisturizer,P4R746,5,27 April 2020,No,Yes,No,5,0,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,5, combination acne prone skin,10,10,5.0,5.0,, holy grail,P4R746,5,27 April 2020,No,Yes,No,5,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,17, absorbs very well,6,6,4.666666666666667,4.666666666666667,, thick consistency,P4R746,5,27 April 2020,No,Yes,No,5,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,4, less redness,10,7,4.857142857142857,4.6,, feels light,P4R746,5,27 April 2020,No,Yes,No,5,0,,Acne
+Positive,,,,Application,74,4.797297297297297,4, recommend trying this product,20,20,4.7,4.7,, my extremely rough and dry knees and elbows,P4R746,5,27 April 2020,No,Yes,No,5,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,4, redness gone,13,13,5.0,5.0,, love this moisturizer,P4R746,5,27 April 2020,No,Yes,No,5,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,5, combination acne prone skin,10,10,5.0,5.0,, holy grail,P4R746,5,27 April 2020,No,Yes,No,5,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,17, absorbs very well,6,6,4.666666666666667,4.666666666666667,, thick consistency,P4R746,5,27 April 2020,No,Yes,No,5,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,4, less redness,10,7,4.857142857142857,4.6,, feels light,P4R746,5,27 April 2020,No,Yes,No,5,0,,Acne
+Negative,,,,Application,74,4.797297297297297,4, recommend trying this product,20,20,4.7,4.7,, my extremely rough and dry knees and elbows,P4R746,5,27 April 2020,No,Yes,No,5,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, dry spots I get on my body,P4R747,5,27 April 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,5, redness gone,43,41,4.634146341463414,4.651162790697675,, keeps those areas moisturized,P4R747,5,27 April 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Performance,76,4.921052631578948,2, Very gentle,8,8,5.0,5.0,, at least 24 hours,P4R747,5,27 April 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,34, oily skin but now I’m pretty sure I was,20,20,4.85,4.85,, dry spots I get on my body,P4R747,5,27 April 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,5, redness gone,43,41,4.634146341463414,4.651162790697675,, keeps those areas moisturized,P4R747,5,27 April 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Performance,76,4.921052631578948,2, Very gentle,8,8,5.0,5.0,, at least 24 hours,P4R747,5,27 April 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, helped heal my sunburned legs!,P4R748,1,27 April 2020,No,No,No,14,16,,Acne
+Negative,,,,Skin,699,4.816881258941344,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, helped heal my sunburned legs!,P4R748,1,27 April 2020,No,No,No,14,16,,Acne
+Positive,,,,Motivation,75,4.386666666666667,0, very dry T-Zone quickly,13,10,3.8,3.8461538461538463,, my friend introduced me to this brand,P4R749,5,27 April 2020,Yes,Yes,No,8,0,,Aging
+Positive,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,," finally have found ""my"" ting after years of jumping around",P4R749,5,27 April 2020,Yes,Yes,No,8,0,,Aging
+Positive,,,,Allergy,44,4.840909090909091,1, absorbs very well,15,15,4.733333333333333,4.733333333333333,, It never breaks me out,P4R749,5,27 April 2020,Yes,Yes,No,8,0,,Aging
+Positive,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, doesn't smell like anything,P4R749,5,27 April 2020,Yes,Yes,No,8,0,,Aging
+Positive,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, ove that all the ingredients are safe,P4R749,5,27 April 2020,Yes,Yes,No,8,0,,Aging
+Negative,,,,Motivation,75,4.386666666666667,0, very dry T-Zone quickly,13,10,3.8,3.8461538461538463,, my friend introduced me to this brand,P4R749,5,27 April 2020,Yes,Yes,No,8,0,,Aging
+Negative,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,," finally have found ""my"" ting after years of jumping around",P4R749,5,27 April 2020,Yes,Yes,No,8,0,,Aging
+Negative,,,,Allergy,44,4.840909090909091,1, absorbs very well,15,15,4.733333333333333,4.733333333333333,, It never breaks me out,P4R749,5,27 April 2020,Yes,Yes,No,8,0,,Aging
+Negative,,,,Odor,51,4.705882352941177,0, very dry T-Zone quickly,26,26,4.846153846153846,4.846153846153846,, doesn't smell like anything,P4R749,5,27 April 2020,Yes,Yes,No,8,0,,Aging
+Negative,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, ove that all the ingredients are safe,P4R749,5,27 April 2020,Yes,Yes,No,8,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,40, thicker,12,12,4.916666666666667,4.916666666666667,, GREAT FOR PEOPLE WHO SUFFER FROM ROSY CHEEKS,P4R750,5,26 April 2020,No,Yes,No,0,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,23, very dry T-Zone quickly,24,24,4.875,4.875,, acne prone skin too,P4R750,5,26 April 2020,No,Yes,No,0,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, cleared our skin of redness,P4R750,5,26 April 2020,No,Yes,No,0,0,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,7, dark acne scars,13,13,4.846153846153846,4.846153846153846,, Highly highly recommended,P4R750,5,26 April 2020,No,Yes,No,0,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,40, thicker,12,12,4.916666666666667,4.916666666666667,, GREAT FOR PEOPLE WHO SUFFER FROM ROSY CHEEKS,P4R750,5,26 April 2020,No,Yes,No,0,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,23, very dry T-Zone quickly,24,24,4.875,4.875,, acne prone skin too,P4R750,5,26 April 2020,No,Yes,No,0,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, cleared our skin of redness,P4R750,5,26 April 2020,No,Yes,No,0,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,7, dark acne scars,13,13,4.846153846153846,4.846153846153846,, Highly highly recommended,P4R750,5,26 April 2020,No,Yes,No,0,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,13, reduced redness,19,19,4.947368421052632,4.947368421052632,, oily skin,P4R751,5,26 April 2020,No,Yes,No,2,1,,Acne
+Positive,,,,Texture,241,4.775933609958506,8, never caused an acne flare,20,20,4.8,4.8,, never too heavy,P4R751,5,26 April 2020,No,Yes,No,2,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,13, reduced redness,19,19,4.947368421052632,4.947368421052632,, oily skin,P4R751,5,26 April 2020,No,Yes,No,2,1,,Acne
+Negative,,,,Texture,241,4.775933609958506,8, never caused an acne flare,20,20,4.8,4.8,, never too heavy,P4R751,5,26 April 2020,No,Yes,No,2,1,,Acne
+Positive,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, inexpensive,P4R752,5,26 April 2020,No,Yes,No,2,0,,Blackheads
+Positive,,,,Performance,76,4.921052631578948,0, calm any redness,31,26,4.961538461538462,4.935483870967742,, will repair even my most damaged,P4R752,5,26 April 2020,No,Yes,No,2,0,,Blackheads
+Negative,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, inexpensive,P4R752,5,26 April 2020,No,Yes,No,2,0,,Blackheads
+Negative,,,,Performance,76,4.921052631578948,0, calm any redness,31,26,4.961538461538462,4.935483870967742,, will repair even my most damaged,P4R752,5,26 April 2020,No,Yes,No,2,0,,Blackheads
+Positive,,,,Sentiment,119,4.9411764705882355,4, redness gone,13,13,5.0,5.0,, I love this moisturizer!,P4R753,5,25 April 2020,No,Yes,No,1,1,,Acne
+Positive,,,,Application,74,4.797297297297297,3, absorbs very well,16,16,4.6875,4.6875,, feels so light,P4R753,5,25 April 2020,No,Yes,No,1,1,,Acne
+Positive,,,,Application,74,4.797297297297297,9, Very gentle,21,19,4.7894736842105265,4.809523809523809,, little goes along way,P4R753,5,25 April 2020,No,Yes,No,1,1,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,4, redness gone,13,13,5.0,5.0,, I love this moisturizer!,P4R753,5,25 April 2020,No,Yes,No,1,1,,Acne
+Negative,,,,Application,74,4.797297297297297,3, absorbs very well,16,16,4.6875,4.6875,, feels so light,P4R753,5,25 April 2020,No,Yes,No,1,1,,Acne
+Negative,,,,Application,74,4.797297297297297,9, Very gentle,21,19,4.7894736842105265,4.809523809523809,, little goes along way,P4R753,5,25 April 2020,No,Yes,No,1,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, hydrated,P4R754,4,24 April 2020,No,Yes,No,8,1,,Redness
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, hydrated,P4R754,4,24 April 2020,No,Yes,No,8,1,,Redness
+Positive,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, how cost efficient it is,P4R756,4,23 April 2020,No,Yes,No,13,7,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,9, soaks well,43,41,4.804878048780488,4.813953488372093,, how well it plays with other skincare,P4R756,4,23 April 2020,No,Yes,No,13,7,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,30, combination skin,15,15,4.733333333333333,4.733333333333333,, clears my redness (rosacea),P4R756,4,23 April 2020,No,Yes,No,13,7,,Blackheads
+Negative,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, how cost efficient it is,P4R756,4,23 April 2020,No,Yes,No,13,7,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,9, soaks well,43,41,4.804878048780488,4.813953488372093,, how well it plays with other skincare,P4R756,4,23 April 2020,No,Yes,No,13,7,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,30, combination skin,14,14,4.714285714285714,4.714285714285714,, clears my redness (rosacea),P4R756,4,23 April 2020,No,Yes,No,13,7,,Blackheads
+Positive,,,,Performance,76,4.921052631578948,1, combination acne prone skin,28,23,4.956521739130435,4.964285714285714,, fixes my skin immediately,P4R757,5,23 April 2020,No,Yes,No,3,1,,Aging
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, calms the redness,P4R757,5,23 April 2020,No,Yes,No,3,1,,Aging
+Positive,,,,Texture,241,4.775933609958506,23, recommend trying this product,17,17,4.882352941176471,4.882352941176471,, soothes my skin,P4R757,5,23 April 2020,No,Yes,No,3,1,,Aging
+Negative,,,,Performance,76,4.921052631578948,1, combination acne prone skin,28,23,4.956521739130435,4.964285714285714,, fixes my skin immediately,P4R757,5,23 April 2020,No,Yes,No,3,1,,Aging
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, calms the redness,P4R757,5,23 April 2020,No,Yes,No,3,1,,Aging
+Negative,,,,Texture,241,4.775933609958506,23, recommend trying this product,17,17,4.882352941176471,4.882352941176471,, soothes my skin,P4R757,5,23 April 2020,No,Yes,No,3,1,,Aging
+Positive,,,,Skin,700,4.817142857142857,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, Dry skin,P4R758,5,22 April 2020,Yes,Yes,No,3,0,,Dark Circles
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, calms redness,P4R758,5,22 April 2020,Yes,Yes,No,3,0,,Dark Circles
+Positive,,,,Performance,76,4.921052631578948,4, Very gentle,10,10,4.7,4.7,, Smooths dry patches,P4R758,5,22 April 2020,Yes,Yes,No,3,0,,Dark Circles
+Positive,,,,Sentiment,119,4.9411764705882355,2, very dry T-Zone quickly,25,24,5.0,5.0,, Worth a try,P4R758,5,22 April 2020,Yes,Yes,No,3,0,,Dark Circles
+Positive,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, but for me,P4R758,5,22 April 2020,Yes,Yes,No,3,0,,Dark Circles
+Positive,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, its a staple,P4R758,5,22 April 2020,Yes,Yes,No,3,0,,Dark Circles
+Negative,,,,Skin,699,4.816881258941344,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, Dry skin,P4R758,5,22 April 2020,Yes,Yes,No,3,0,,Dark Circles
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, calms redness,P4R758,5,22 April 2020,Yes,Yes,No,3,0,,Dark Circles
+Negative,,,,Performance,76,4.921052631578948,4, Very gentle,10,10,4.7,4.7,, Smooths dry patches,P4R758,5,22 April 2020,Yes,Yes,No,3,0,,Dark Circles
+Negative,,,,Sentiment,119,4.9411764705882355,2, very dry T-Zone quickly,25,24,5.0,5.0,, Worth a try,P4R758,5,22 April 2020,Yes,Yes,No,3,0,,Dark Circles
+Negative,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, but for me,P4R758,5,22 April 2020,Yes,Yes,No,3,0,,Dark Circles
+Negative,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, its a staple,P4R758,5,22 April 2020,Yes,Yes,No,3,0,,Dark Circles
+Positive,,,,Packaging,52,4.788461538461538,2, very dry T-Zone quickly,9,9,4.444444444444445,4.444444444444445,, buy the 2oz tubes; not a fan of tubs,P4R759,5,22 April 2020,No,Yes,No,6,0,,Aging
+Negative,,,,Packaging,52,4.788461538461538,2, very dry T-Zone quickly,9,9,4.444444444444445,4.444444444444445,, buy the 2oz tubes; not a fan of tubs,P4R759,5,22 April 2020,No,Yes,No,6,0,,Aging
+Positive,,,,Purchase,46,4.934782608695652,1, very dry T-Zone quickly,26,24,4.916666666666667,4.923076923076923,, worth the investment,P4R760,5,22 April 2020,No,Yes,No,5,1,Over54,Dark Circles
+Positive,,,,Application,74,4.797297297297297,5, absorbs very well,6,5,4.8,4.666666666666667,, his extremely dry hands,P4R760,5,22 April 2020,No,Yes,No,5,1,Over54,Dark Circles
+Positive,,,,Application,74,4.797297297297297,7, never caused an acne flare,5,5,4.8,4.8,,,P4R760,5,22 April 2020,No,Yes,No,5,1,Over54,Dark Circles
+Negative,,,,Purchase,46,4.934782608695652,1, very dry T-Zone quickly,26,24,4.916666666666667,4.923076923076923,, worth the investment,P4R760,5,22 April 2020,No,Yes,No,5,1,Over54,Dark Circles
+Negative,,,,Application,74,4.797297297297297,5, absorbs very well,6,5,4.8,4.666666666666667,, his extremely dry hands,P4R760,5,22 April 2020,No,Yes,No,5,1,Over54,Dark Circles
+Negative,,,,Application,74,4.797297297297297,7, never caused an acne flare,5,5,4.8,4.8,,,P4R760,5,22 April 2020,No,Yes,No,5,1,Over54,Dark Circles
+Positive,,,,Texture,241,4.775933609958506,4, less redness,10,7,4.857142857142857,4.6,, feels really nice,P4R761,5,22 April 2020,No,Yes,No,9,1,,Dark Circles
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, combination skin that gets red,P4R761,5,22 April 2020,No,Yes,No,9,1,,Dark Circles
+Positive,,,,Purchase,46,4.934782608695652,0, very dry T-Zone quickly,19,16,4.9375,4.947368421052632,, will repurchase,P4R761,5,22 April 2020,No,Yes,No,9,1,,Dark Circles
+Negative,,,,Texture,241,4.775933609958506,4, less redness,10,7,4.857142857142857,4.6,, feels really nice,P4R761,5,22 April 2020,No,Yes,No,9,1,,Dark Circles
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, combination skin that gets red,P4R761,5,22 April 2020,No,Yes,No,9,1,,Dark Circles
+Negative,,,,Purchase,46,4.934782608695652,0, very dry T-Zone quickly,19,16,4.9375,4.947368421052632,, will repurchase,P4R761,5,22 April 2020,No,Yes,No,9,1,,Dark Circles
+Positive,,,,Skin,700,4.817142857142857,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, eczema,P4R762,5,22 April 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, extremely dry skin,P4R762,5,22 April 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, eczema,P4R762,5,22 April 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, extremely dry skin,P4R762,5,22 April 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, husband has eczema,P4R763,5,21 April 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,22, soaks into my skin quickly,12,11,4.818181818181818,4.833333333333333,, doesn't have dry flaky hands now,P4R763,5,21 April 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, husband has eczema,P4R763,5,21 April 2020,No,Yes,No,3,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,22, flakiness is gone,12,11,4.818181818181818,4.833333333333333,, doesn't have dry flaky hands now,P4R763,5,21 April 2020,No,Yes,No,3,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,8, never caused an acne flare,20,20,4.8,4.8,, so light weight,P4R764,5,20 April 2020,No,Yes,No,0,0,,Blackheads
+Positive,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, Also such a great price,P4R764,5,20 April 2020,No,Yes,No,0,0,,Blackheads
+Negative,,,,Texture,241,4.775933609958506,8, never caused an acne flare,20,20,4.8,4.8,, so light weight,P4R764,5,20 April 2020,No,Yes,No,0,0,,Blackheads
+Negative,,,,Price,84,4.928571428571429,2, Very gentle,23,23,4.956521739130435,4.956521739130435,, Also such a great price,P4R764,5,20 April 2020,No,Yes,No,0,0,,Blackheads
+Positive,,,,Competitor,14,3.7857142857142856,0, very dry T-Zone quickly,14,11,3.4545454545454546,3.7857142857142856,, Tatcha dewy moisturizer,P4R765,2,20 April 2020,No,No,No,7,11,,Blackheads
+Negative,,,,Competitor,14,3.7857142857142856,0, very dry T-Zone quickly,14,11,3.4545454545454546,3.7857142857142856,, Tatcha dewy moisturizer,P4R765,2,20 April 2020,No,No,No,7,11,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,4, calm any redness,12,8,5.0,5.0,, Super,P4R766,5,20 April 2020,No,Yes,No,3,1,,
+Positive,,,,Skin,700,4.817142857142857,5, redness gone,43,41,4.634146341463414,4.651162790697675,, super moisturizing,P4R766,5,20 April 2020,No,Yes,No,3,1,,
+Positive,,,,Skin,700,4.817142857142857,32, SUPER dry skin,6,6,4.833333333333333,4.833333333333333,, peeling skin,P4R766,5,20 April 2020,No,Yes,No,3,1,,
+Positive,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, without feeling heavy or greasy,P4R766,5,20 April 2020,No,Yes,No,3,1,,
+Negative,,,,Skin,699,4.816881258941344,4, calm any redness,12,8,5.0,5.0,, Super,P4R766,5,20 April 2020,No,Yes,No,3,1,,
+Negative,,,,Skin,699,4.816881258941344,5, redness gone,43,41,4.634146341463414,4.651162790697675,, super moisturizing,P4R766,5,20 April 2020,No,Yes,No,3,1,,
+Negative,,,,Skin,699,4.816881258941344,32, SUPER dry skin,6,6,4.833333333333333,4.833333333333333,, peeling skin,P4R766,5,20 April 2020,No,Yes,No,3,1,,
+Negative,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, without feeling heavy or greasy,P4R766,5,20 April 2020,No,Yes,No,3,1,,
+Positive,,,,Skin,700,4.817142857142857,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, dry skin,P4R767,5,20 April 2020,No,Yes,No,13,2,,Blackheads
+Positive,,,,Skin,700,4.817142857142857,7, this brand is vegan AND cruelty free,11,11,4.909090909090909,4.909090909090909,, contact dermatitis,P4R767,5,20 April 2020,No,Yes,No,13,2,,Blackheads
+Positive,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, Environmental Working Group's ingredients,P4R767,5,20 April 2020,No,Yes,No,13,2,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, dry skin,P4R767,5,20 April 2020,No,Yes,No,13,2,,Blackheads
+Negative,,,,Skin,699,4.816881258941344,7, this brand is vegan AND cruelty free,11,11,4.909090909090909,4.909090909090909,, contact dermatitis,P4R767,5,20 April 2020,No,Yes,No,13,2,,Blackheads
+Negative,,,,Ingredients,12,4.833333333333333,1, very dry T-Zone quickly,13,10,4.7,4.769230769230769,, Environmental Working Group's ingredients,P4R767,5,20 April 2020,No,Yes,No,13,2,,Blackheads
+Positive,,,,Texture,241,4.775933609958506,12, first tried this moisturizer as a free sample,10,10,4.2,4.2,, loved the texture,P4R768,3,19 April 2020,No,No,No,7,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,9, soaks well,43,41,4.804878048780488,4.813953488372093,, made my skin feel great,P4R768,3,19 April 2020,No,No,No,7,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,12, first tried this moisturizer as a free sample,10,10,4.2,4.2,, loved the texture,P4R768,3,19 April 2020,No,No,No,7,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,9, soaks well,43,41,4.804878048780488,4.813953488372093,, made my skin feel great,P4R768,3,19 April 2020,No,No,No,7,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R769,4,19 April 2020,No,Yes,No,11,1,,Acne
+Positive,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, not find the cream heavy or oily,P4R769,4,19 April 2020,No,Yes,No,11,1,,Acne
+Positive,,,,Price,84,4.928571428571429,4, Age is [35],4,4,4.75,4.75,, little bit goes a long,P4R769,4,19 April 2020,No,Yes,No,11,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,31, never caused an acne flare,17,17,4.294117647058823,4.294117647058823,, combination skin,P4R769,4,19 April 2020,No,Yes,No,11,1,,Acne
+Negative,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, not find the cream heavy or oily,P4R769,4,19 April 2020,No,Yes,No,11,1,,Acne
+Negative,,,,Price,84,4.928571428571429,4, Age is [35],4,4,4.75,4.75,, little bit goes a long,P4R769,4,19 April 2020,No,Yes,No,11,1,,Acne
+Positive,,,,Application,74,4.797297297297297,4, recommend trying this product,20,20,4.7,4.7,, great for someone with dry skin,P4R770,4,18 April 2020,No,Yes,No,1,1,,
+Negative,,,,Application,74,4.797297297297297,4, recommend trying this product,20,20,4.7,4.7,, great for someone with dry skin,P4R770,4,18 April 2020,No,Yes,No,1,1,,
+Positive,,,,Texture,241,4.775933609958506,3, Very gentle,19,18,4.722222222222222,4.7368421052631575,, has a very matte finish,P4R771,3,18 April 2020,No,Yes,No,3,3,,Acne
+Positive,,,,Allergy,44,4.840909090909091,1, absorbs very well,15,15,4.733333333333333,4.733333333333333,, hasn’t noticed it breaking me out,P4R771,3,18 April 2020,No,Yes,No,3,3,,Acne
+Negative,,,,Texture,241,4.775933609958506,3, Very gentle,19,18,4.722222222222222,4.7368421052631575,, has a very matte finish,P4R771,3,18 April 2020,No,Yes,No,3,3,,Acne
+Negative,,,,Allergy,44,4.840909090909091,1, absorbs very well,15,15,4.733333333333333,4.733333333333333,, hasn’t noticed it breaking me out,P4R771,3,18 April 2020,No,Yes,No,3,3,,Acne
+Positive,,,,Skin,700,4.817142857142857,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, eczema,P4R772,4,18 April 2020,No,Yes,No,6,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, dry skin,P4R772,4,18 April 2020,No,Yes,No,6,0,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, savior,P4R772,4,18 April 2020,No,Yes,No,6,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, eczema,P4R772,4,18 April 2020,No,Yes,No,6,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, dry skin,P4R772,4,18 April 2020,No,Yes,No,6,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,0, Very gentle,36,35,4.885714285714286,4.888888888888889,, savior,P4R772,4,18 April 2020,No,Yes,No,6,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, very dry skin,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Positive,,,,Skin,700,4.817142857142857,17, skill looks more hydrated,31,26,4.961538461538462,4.967741935483871,, extremely dry,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, sensitive skin,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Positive,,,,Application,74,4.797297297297297,6, Thank you First Aid Beauty!!,7,6,5.0,5.0,, nightly after toning,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Positive,,,,Application,74,4.797297297297297,3, absorbs very well,16,16,4.6875,4.6875,, coat my entire face,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Positive,,,,Packaging,52,4.788461538461538,4, never caused an acne flare,7,7,5.0,5.0,, lasts a few months,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Positive,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, wait until it’s on sale,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Negative,,,,Skin,699,4.816881258941344,27, No bumps or acne,27,27,4.62962962962963,4.62962962962963,, very dry skin,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Negative,,,,Skin,699,4.816881258941344,17, skill looks more hydrated,31,26,4.961538461538462,4.967741935483871,, extremely dry,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, sensitive skin,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Negative,,,,Application,74,4.797297297297297,6, Thank you First Aid Beauty!!,7,6,5.0,5.0,, nightly after toning,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Negative,,,,Application,74,4.797297297297297,3, absorbs very well,16,16,4.6875,4.6875,, coat my entire face,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Negative,,,,Packaging,52,4.788461538461538,4, never caused an acne flare,7,7,5.0,5.0,, lasts a few months,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Negative,,,,Price,84,4.928571428571429,0, calm any redness,34,32,4.875,4.882352941176471,, wait until it’s on sale,P4R773,5,18 April 2020,No,Yes,No,6,2,,Redness
+Positive,,,,Skin,700,4.817142857142857,3, Read reviews on this product,24,23,4.869565217391305,4.875,, dry flaky skin,P4R774,5,18 April 2020,Yes,Yes,No,4,0,,Acne
+Positive,,,,Application,74,4.797297297297297,9, Very gentle,21,19,4.7894736842105265,4.809523809523809,, my t zone,P4R774,5,18 April 2020,Yes,Yes,No,4,0,,Acne
+Positive,,,,Performance,76,4.921052631578948,1, combination acne prone skin,28,23,4.956521739130435,4.964285714285714,, stop my skin from flaking through out the day,P4R774,5,18 April 2020,Yes,Yes,No,4,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,3, Read reviews on this product,24,23,4.869565217391305,4.875,, dry flaky skin,P4R774,5,18 April 2020,Yes,Yes,No,4,0,,Acne
+Negative,,,,Application,74,4.797297297297297,9, Very gentle,21,19,4.7894736842105265,4.809523809523809,, my t zone,P4R774,5,18 April 2020,Yes,Yes,No,4,0,,Acne
+Negative,,,,Performance,76,4.921052631578948,1, combination acne prone skin,28,23,4.956521739130435,4.964285714285714,, stop my skin from flaking through out the day,P4R774,5,18 April 2020,Yes,Yes,No,4,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,23, very dry T-Zone quickly,24,24,4.875,4.875,, acne prone,P4R775,5,17 April 2020,No,Yes,No,6,0,,Acne
+Positive,,,,Application,74,4.797297297297297,1, very dry T-Zone quickly,13,13,4.6923076923076925,4.6923076923076925,, use tretinoin,P4R775,5,17 April 2020,No,Yes,No,6,0,,Acne
+Positive,,,,Performance,76,4.921052631578948,4, Very gentle,10,10,4.7,4.7,, so hydrating,P4R775,5,17 April 2020,No,Yes,No,6,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,23, very dry T-Zone quickly,24,24,4.875,4.875,, acne prone,P4R775,5,17 April 2020,No,Yes,No,6,0,,Acne
+Negative,,,,Application,74,4.797297297297297,1, very dry T-Zone quickly,13,13,4.6923076923076925,4.6923076923076925,, use tretinoin,P4R775,5,17 April 2020,No,Yes,No,6,0,,Acne
+Negative,,,,Performance,76,4.921052631578948,4, Very gentle,10,10,4.7,4.7,, so hydrating,P4R775,5,17 April 2020,No,Yes,No,6,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, eczema so,P4R776,5,17 April 2020,Yes,Yes,No,3,2,,Acne
+Positive,,,,Texture,241,4.775933609958506,0, absorbs very well,10,10,4.5,4.5,, whipped texture,P4R776,5,17 April 2020,Yes,Yes,No,3,2,,Acne
+Negative,,,,Skin,699,4.816881258941344,11, recommend trying this product,70,67,4.865671641791045,4.871428571428571,, eczema so,P4R776,5,17 April 2020,Yes,Yes,No,3,2,,Acne
+Negative,,,,Texture,241,4.775933609958506,0, absorbs very well,10,10,4.5,4.5,, whipped texture,P4R776,5,17 April 2020,Yes,Yes,No,3,2,,Acne
+Positive,,,,Skin,700,4.817142857142857,42, not look glossy midday,7,7,5.0,5.0,, past winter was brutal to my skin,P4R777,5,17 April 2020,Yes,Yes,No,4,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,3, Read reviews on this product,24,23,4.869565217391305,4.875,, flaking off my face,P4R777,5,17 April 2020,Yes,Yes,No,4,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, thick and healing,P4R777,5,17 April 2020,Yes,Yes,No,4,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,42, not look glossy midday,7,7,5.0,5.0,, past winter was brutal to my skin,P4R777,5,17 April 2020,Yes,Yes,No,4,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,3, Read reviews on this product,24,23,4.869565217391305,4.875,, flaking off my face,P4R777,5,17 April 2020,Yes,Yes,No,4,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,5, price is worth it,19,19,4.684210526315789,4.684210526315789,, thick and healing,P4R777,5,17 April 2020,Yes,Yes,No,4,0,,Acne
+Positive,,,,Sentiment,119,4.9411764705882355,1, calm any redness,19,15,4.933333333333334,4.947368421052632,, have fallen in love with this cream,P4R778,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, super sensitive skin,P4R778,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, prone to redness,P4R778,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,19, does NOT leave skin oily/greasy,16,13,4.6923076923076925,4.75,, irritation,P4R778,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Negative,,,,Sentiment,119,4.9411764705882355,1, calm any redness,19,15,4.933333333333334,4.947368421052632,, have fallen in love with this cream,P4R778,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, super sensitive skin,P4R778,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, prone to redness,P4R778,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,19, does NOT leave skin oily/greasy,16,13,4.6923076923076925,4.75,, irritation,P4R778,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Positive,,,,Price,84,4.928571428571429,1, Read reviews on this product,9,5,5.0,5.0,, Was a little skeptical after having used much pricier,P4R779,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, super sensitive skin,P4R779,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, prone to redness,P4R779,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,19, does NOT leave skin oily/greasy,16,13,4.6923076923076925,4.75,, irritation,P4R779,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Negative,,,,Price,84,4.928571428571429,1, Read reviews on this product,9,5,5.0,5.0,, Was a little skeptical after having used much pricier,P4R779,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, super sensitive skin,P4R779,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,20, Very gentle,38,35,4.914285714285715,4.921052631578948,, prone to redness,P4R779,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,19, does NOT leave skin oily/greasy,16,13,4.6923076923076925,4.75,, irritation,P4R779,5,16 April 2020,Yes,Yes,No,1,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, seem to really work,P4R780,5,16 April 2020,No,Yes,No,1,0,,
+Positive,,,,Skin,700,4.817142857142857,17, skill looks more hydrated,31,26,4.961538461538462,4.967741935483871,, dry,P4R780,5,16 April 2020,No,Yes,No,1,0,,
+Negative,,,,Skin,699,4.816881258941344,8, Read reviews on this product,41,39,4.717948717948718,4.7317073170731705,, seem to really work,P4R780,5,16 April 2020,No,Yes,No,1,0,,
+Negative,,,,Skin,699,4.816881258941344,17, skill looks more hydrated,31,26,4.961538461538462,4.967741935483871,, dry,P4R780,5,16 April 2020,No,Yes,No,1,0,,
+Positive,,,,Skin,700,4.817142857142857,38, calms down my skin,4,3,5.0,5.0,, RX retinol,P4R781,5,16 April 2020,No,Yes,No,1,0,,
+Positive,,,,Skin,700,4.817142857142857,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, my skin can get very dry,P4R781,5,16 April 2020,No,Yes,No,1,0,,
+Negative,,,,Skin,699,4.816881258941344,38, calms down my skin,4,3,5.0,5.0,, RX retinol,P4R781,5,16 April 2020,No,Yes,No,1,0,,
+Negative,,,,Skin,699,4.816881258941344,10, lifetime product for me,60,58,4.775862068965517,4.783333333333333,, my skin can get very dry,P4R781,5,16 April 2020,No,Yes,No,1,0,,
+Positive,,,,Texture,241,4.775933609958506,13, suffer from adult acne,7,4,5.0,5.0,, without feeling heavy,P4R782,5,16 April 2020,No,Yes,No,0,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,1, Very gentle,20,17,4.9411764705882355,4.95,, waxy or greasy,P4R782,5,16 April 2020,No,Yes,No,0,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, kind to my sensitive skin,P4R782,5,16 April 2020,No,Yes,No,0,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,13, suffer from adult acne,7,4,5.0,5.0,, without feeling heavy,P4R782,5,16 April 2020,No,Yes,No,0,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,1, Very gentle,20,17,4.9411764705882355,4.95,, waxy or greasy,P4R782,5,16 April 2020,No,Yes,No,0,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, kind to my sensitive skin,P4R782,5,16 April 2020,No,Yes,No,0,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,13, suffer from adult acne,7,4,5.0,5.0,, without feeling heavy,P4R783,5,16 April 2020,No,Yes,No,0,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,1, Very gentle,20,17,4.9411764705882355,4.95,, waxy or greasy,P4R783,5,16 April 2020,No,Yes,No,0,0,,Aging
+Positive,,,,Skin,700,4.817142857142857,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, kind to my sensitive skin,P4R783,5,16 April 2020,No,Yes,No,0,0,,Aging
+Positive,,,,Demographic,54,4.962962962962963,0, very dry T-Zone quickly,23,22,4.863636363636363,4.869565217391305,, my hubby even likes to use,P4R783,5,16 April 2020,No,Yes,No,0,0,,Aging
+Positive,,,,Motivation,75,4.386666666666667,5, recommend trying this product,12,11,4.181818181818182,4.25,, salesman at Sephora gave me,P4R783,5,16 April 2020,No,Yes,No,0,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,13, suffer from adult acne,7,4,5.0,5.0,, without feeling heavy,P4R783,5,16 April 2020,No,Yes,No,0,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,1, Very gentle,20,17,4.9411764705882355,4.95,, waxy or greasy,P4R783,5,16 April 2020,No,Yes,No,0,0,,Aging
+Negative,,,,Skin,699,4.816881258941344,18, thick and hydrating,53,44,4.840909090909091,4.867924528301887,, kind to my sensitive skin,P4R783,5,16 April 2020,No,Yes,No,0,0,,Aging
+Negative,,,,Demographic,54,4.962962962962963,0, very dry T-Zone quickly,23,22,4.863636363636363,4.869565217391305,, my hubby even likes to use,P4R783,5,16 April 2020,No,Yes,No,0,0,,Aging
+Negative,,,,Motivation,75,4.386666666666667,5, recommend trying this product,12,11,4.181818181818182,4.25,, salesman at Sephora gave me,P4R783,5,16 April 2020,No,Yes,No,0,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, not oily or greasy at all,P4R784,5,16 April 2020,Yes,Yes,No,1,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,18, combination skin,4,1,5.0,5.0,, Penetrates skin with no residual stickiness,P4R784,5,16 April 2020,Yes,Yes,No,1,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, not oily or greasy at all,P4R784,5,16 April 2020,Yes,Yes,No,1,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,18, combination skin,4,1,5.0,5.0,, Penetrates skin with no residual stickiness,P4R784,5,16 April 2020,Yes,Yes,No,1,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,24, Super thick,5,4,5.0,5.0,, no heavy fragrance,P4R785,5,16 April 2020,Yes,Yes,No,1,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, Not oily or greasy at all,P4R785,5,16 April 2020,Yes,Yes,No,1,0,,Aging
+Positive,,,,Texture,241,4.775933609958506,18, combination skin,4,1,5.0,5.0,, Penetrates skin with no residual stickiness,P4R785,5,16 April 2020,Yes,Yes,No,1,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,24, Super thick,5,4,5.0,5.0,, no heavy fragrance,P4R785,5,16 April 2020,Yes,Yes,No,1,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,6, recommend trying this product,21,17,4.823529411764706,4.809523809523809,, Not oily or greasy at all,P4R785,5,16 April 2020,Yes,Yes,No,1,0,,Aging
+Negative,,,,Texture,241,4.775933609958506,18, combination skin,4,1,5.0,5.0,, Penetrates skin with no residual stickiness,P4R785,5,16 April 2020,Yes,Yes,No,1,0,,Aging
+Positive,,,,Motivation,75,4.386666666666667,5, recommend trying this product,12,11,4.181818181818182,4.25,, This was recommended to me by a Sephora employee,P4R786,5,16 April 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, without the greasy feeling,P4R786,5,16 April 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Price,84,4.928571428571429,4, Age is [35],4,4,4.75,4.75,, A little goes a long way,P4R786,5,16 April 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, so good job hydrating my face,P4R786,5,16 April 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Demographic,54,4.962962962962963,1, Very gentle,31,31,4.838709677419355,4.838709677419355,, in the winters,P4R786,5,16 April 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Motivation,75,4.386666666666667,5, recommend trying this product,12,11,4.181818181818182,4.25,, This was recommended to me by a Sephora employee,P4R786,5,16 April 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Texture,241,4.775933609958506,10, Thank you First Aid Beauty!!,18,14,5.0,5.0,, without the greasy feeling,P4R786,5,16 April 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Price,84,4.928571428571429,4, Age is [35],4,4,4.75,4.75,, A little goes a long way,P4R786,5,16 April 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, so good job hydrating my face,P4R786,5,16 April 2020,No,Yes,No,3,1,,Acne
+Negative,,,,Demographic,54,4.962962962962963,1, Very gentle,31,31,4.838709677419355,4.838709677419355,, in the winters,P4R786,5,16 April 2020,No,Yes,No,3,1,,Acne
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, Very hydrating,P4R788,4,16 April 2020,Yes,Yes,No,0,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,4, less redness,10,7,4.857142857142857,4.6,, doesn't feel balmy,P4R788,4,16 April 2020,Yes,Yes,No,0,0,,Acne
+Positive,,,,Motivation,75,4.386666666666667,0, very dry T-Zone quickly,13,10,3.8,3.8461538461538463,, off a recommendation,P4R788,4,16 April 2020,Yes,Yes,No,0,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, Very hydrating,P4R788,4,16 April 2020,Yes,Yes,No,0,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,4, less redness,10,7,4.857142857142857,4.6,, doesn't feel balmy,P4R788,4,16 April 2020,Yes,Yes,No,0,0,,Acne
+Negative,,,,Motivation,75,4.386666666666667,0, very dry T-Zone quickly,13,10,3.8,3.8461538461538463,, off a recommendation,P4R788,4,16 April 2020,Yes,Yes,No,0,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, Very hydrating,P4R789,4,16 April 2020,Yes,Yes,No,0,0,,Acne
+Positive,,,,Texture,241,4.775933609958506,4, less redness,10,7,4.857142857142857,4.6,, doesn't feel balmy,P4R789,4,16 April 2020,Yes,Yes,No,0,0,,Acne
+Positive,,,,Motivation,75,4.386666666666667,0, very dry T-Zone quickly,13,10,3.8,3.8461538461538463,, bought it off a recommendation,P4R789,4,16 April 2020,Yes,Yes,No,0,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,24, recommend trying this product,49,46,4.760869565217392,4.714285714285714,, Very hydrating,P4R789,4,16 April 2020,Yes,Yes,No,0,0,,Acne
+Negative,,,,Texture,241,4.775933609958506,4, less redness,10,7,4.857142857142857,4.6,, doesn't feel balmy,P4R789,4,16 April 2020,Yes,Yes,No,0,0,,Acne
+Negative,,,,Motivation,75,4.386666666666667,0, very dry T-Zone quickly,13,10,3.8,3.8461538461538463,, bought it off a recommendation,P4R789,4,16 April 2020,Yes,Yes,No,0,0,,Acne
+Positive,,,,Odor,51,4.705882352941177,2, Very gentle,11,11,4.363636363636363,4.363636363636363,, fragrance,P4R790,4,16 April 2020,Yes,Yes,No,2,0,,Acne
+Positive,,,,Skin,700,4.817142857142857,5, redness gone,43,41,4.634146341463414,4.651162790697675,, helped moisturize my body,P4R790,4,16 April 2020,Yes,Yes,No,2,0,,Acne
+Negative,,,,Odor,51,4.705882352941177,2, Very gentle,11,11,4.363636363636363,4.363636363636363,, fragrance,P4R790,4,16 April 2020,Yes,Yes,No,2,0,,Acne
+Negative,,,,Skin,699,4.816881258941344,5, redness gone,43,41,4.634146341463414,4.651162790697675,, helped moisturize my body,P4R790,4,16 April 2020,Yes,Yes,No,2,0,,Acne

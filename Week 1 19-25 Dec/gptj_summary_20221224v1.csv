@@ -1,0 +1,17 @@
+,Positive Sentiment,,,,Negative Sentiment,,,
+aspect,phrase_count,phrase_avg_rating,review_count,review_avg_rating,phrase_count,Phrase_Avg_Rating,review_count,Review_Avg_Rating
+Skin,1198,4.761269,656,4.722561,138,2.297101,82,2.378049
+Texture,341,4.83871,265,4.807547,21,2.904762,20,2.8
+Allergy,132,4.772727,118,4.788136,157,2.471338,126,2.642857
+Sentiment,108,4.888889,82,4.865854,28,2.285714,27,2.296296
+Application,107,4.878505,76,4.842105,7,3.571429,4,2.5
+Price,86,4.860465,73,4.835616,3,3,3,3
+Motivation,74,4.824324,54,4.777778,2,2,2,2
+Demographic,42,4.880952,34,4.852941,0,0,0,0
+Performance,39,4.820513,29,4.758621,10,2.1,9,2.222222
+Ingredients,24,4.875,13,4.769231,4,2.5,4,2.5
+Odor,22,4.954545,13,4.923077,8,3.375,7,3.285714
+Purchase,19,4.526316,17,4.529412,4,2.5,4,2.5
+Brand,13,4.692308,13,4.692308,0,0,0,0
+Packaging,2,5,2,5,1,4,1,4
+Competitor,0,0,0,0,1,4,1,4
